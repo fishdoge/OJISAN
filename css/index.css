@@ -2,6 +2,13 @@
     position: relative;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
 }
+html,body{
+    width: 100%;
+    height: 100%;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+}
 h1{
     font-size: 48px;
 }
@@ -13,4 +20,164 @@ h3{
 }
 p{
     font-size: 18px;
+}
+section{
+    width: 100vw;
+    text-align: center;
+}
+.container{
+    display: inline-block;
+    text-align: center;
+    width: 90vw;
+}
+
+.roadmap-founder{
+    background-color: black;
+}
+/*vc*/
+#vc img{
+    display: inline-block;
+    max-width: 80vw;
+}
+#vc h1,h2{
+    font-family: Roboto;
+    margin-top: 2vh;
+}
+#vc p{
+    font-family: Roboto;
+    display: inline-block;
+    width: 80%;
+    margin-top: 5vh;
+    line-height: 22px;
+}
+#vc .waiting{
+    margin-top: 20vh;
+}
+#vc .waiting-info{
+    margin-top: 1vh;
+    line-height: 28px;
+}
+
+/*roadmap*/
+#roadmap{
+    color: #E4E4E4;
+    margin-top: 30vh;
+    padding-top: 10vh;
+    padding-bottom: 30vh;
+}
+#roadmap p{
+    line-height: 22px;
+}
+
+/*founder*/
+#founder .dash{
+    max-width: 80vw;
+}
+#founder{
+    color: #FFFFFF;
+}
+#founder h2{
+    margin-top: 10vh;
+}
+#founder .founder-pic{
+    max-width: 20vw;
+}
+#founder .founder-container{
+    display: inline-block;
+    text-align: center;
+    width: 90vw;
+}
+#founder .founder-info{
+    display: inline-block;
+    width: 20vw;
+    text-align: center;
+    vertical-align: top;
+    margin: 6vh 5vw;
+}
+#founder1{
+    text-align: left;
+}
+
+@media screen and (max-width:600px){
+    h1{
+        font-size: 36px;
+    }
+    h2{
+        font-size: 24px;
+    }
+    h3{
+        font-size: 18px;
+    }
+    p{
+        font-size: 14px;
+    }
+
+    /*vc*/
+    #vc p{
+        line-height: 16px;
+    }
+    #vc .waiting-info{
+        line-height: 20px;
+    }
+    
+    /*founder*/
+    #founder p{
+        font-size: 12px;
+    }
+    #founder .founder-pic{
+        max-width: 30vw;
+    }
+    #founder .founder-info{
+        width: 30vw;
+        
+    }
+}
+@media screen and (min-width:1440px){
+    /*founder*/
+    #founder p{
+        margin: 5vh 2vw;
+    }
+}
+@media screen and (min-width:1800px){
+    /*vc*/
+    #vc img{
+        width: 50vw;
+    }
+    /*founder*/
+    #founder p{
+        margin: 5vh 4vw;
+    }
+}
+@media screen and (min-width:2000px){
+    h1{
+        font-size: 72px;
+    }
+    h2{
+        font-size: 60px;
+    }
+    h3{
+        font-size: 48px;
+    }
+    p{
+        font-size: 36px;
+    }
+    /*vc*/
+    #vc p{
+        line-height: 48px;
+    }
+    #vc .waiting-info{
+        line-height: 48px;
+    }
+    /*roadmap*/
+    #roadmap p{
+        line-height: 48px;
+    }
+    /*founder*/
+    #founder .founder-pic{
+        width: 612px;
+        height: 648px;
+    }
+    #founder p{
+        margin: 5vh 0;
+    }
 }
