@@ -1,6 +1,6 @@
 *{
     position: relative;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+    font-family: 'Roboto', sans-serif;
 }
 html,body{
     width: 100%;
@@ -10,16 +10,21 @@ html,body{
     text-align: center;
 }
 h1{
-    font-size: 48px;
+	font-size:3rem;
+    /* font-size: 48px; */
 }
 h2{
-    font-size: 36px;
+	font-size:2.25rem;
+    /* font-size: 36px; */
 }
 h3{
-    font-size: 24px;
+	font-size:1.5rem;
+    /* font-size: 24px; */
 }
 p{
-    font-size: 18px;
+	font-size:1.125rem;
+    /* font-size: 18px; */
+    font-weight: 400;
 }
 section{
     width: 100vw;
@@ -29,17 +34,190 @@ section{
     display: inline-block;
     text-align: center;
     width: 90vw;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
 }
 
-.roadmap-founder{
-    background-color: black;
+nav{
+    background-color: rgb(37, 37, 37);
+    text-align: left;
+    color: white;
+    height: 20vh;
+    vertical-align: top;
 }
+nav .left{
+    display: inline-block;
+    height: 100%;
+    vertical-align: bottom;
+}
+nav .logo{
+    display: inline-block;
+    vertical-align: bottom;
+    height: 100%;
+    /* width: 20vw; */
+}
+nav .logo-text{
+    display: inline-block;
+}
+nav .right{
+    position: absolute;
+    right: 50px;
+    display: inline-block;    
+    height: 100%;
+    vertical-align: top;
+    width: 25vw;
+}
+nav .icon{
+    display: inline-block;
+    width: 7vw;
+    height: 7vw;
+    top: 50%;
+    transform: translateY(-50%);
+    min-width: 40px;
+    min-height: 40px;
+}
+nav img{
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
+
+/* home */
+#home {
+    background-color: rgb(37, 37, 37);
+    color: #e7e7e7;
+    font-family: Amiri;
+    letter-spacing:0.375rem;
+}
+#home .pic{
+    width: 100vw;
+}
+#home img{
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
+#home .logo{
+    display: inline-block;
+    max-width: 300px;
+    width: 40vw;
+}
+#home .logo-top{
+    max-width: 200px;
+}
+#home .arrow{
+    display: inline-block;
+    max-width: 70px;
+    width: 10vw;
+}
+#home p span{
+    color: orange;
+}
+
+/* nft */
+#nft .container{
+    padding-top: 20vh;
+    padding-bottom: 20vh;
+}
+#nft .pic{
+    display: inline-block;
+    width: 70%;
+}
+#nft img{
+    display: inline-block;
+    width: 100%;
+    height: 100%;
+}
+#nft button{
+    background-color: rgb(37, 37, 37);
+    color: orange;
+    font-size: 1rem;
+    border-radius: 50px;
+    padding: 15px 25px;
+    margin-top: 50px;
+    cursor: pointer;
+    border:none;
+}
+#nft button:hover{
+    background-color: rgb(80, 80, 80);
+    color: rgb(255, 198, 93);
+    transform: scale(1.2);
+}
+
+/* team */
+#team {    
+    background-color: rgb(37, 37, 37);
+    color: #FFFFFF;
+}
+#team h2 span{
+    color: orange;
+    font-size:2.875rem;
+    /* font-size: 46px; */
+}
+#team .block{
+    display: inline-block;
+    width: 20%;
+    vertical-align:top;
+    padding: 20px;
+    text-align: left;
+}
+#team .block .pic{
+    width: 100%;
+}
+#team .block img{
+    width: 100%;
+    height: 100%;
+}
+#team .hr-margin{
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+
+/* about */
+#about p{ 
+    color: #333232;
+    
+    letter-spacing: -0.408px;
+}
+#about .big-ls{
+    letter-spacing: 6.592px;
+}
+#about hr{
+    margin-top: 10vh;
+    margin-bottom: 10vh;
+}
+
+/* future */
+#future{    
+    background-color: rgb(37, 37, 37);
+    color: #FFFFFF;
+}
+#future .block{
+    display: inline-block;
+}
+#future .pic{
+    margin:10px;
+    max-width: 200px;
+    max-height: 200px;
+}
+#future img{
+    width: 100%;
+    height: 100%;
+}
+#future .bottom-pic{
+    padding-bottom: 10vh;
+}
+
 /*vc*/
 #vc img{
     display: inline-block;
     max-width: 80vw;
 }
-#vc h1,h2{
+#vc h1{
+    font-family: Roboto;
+    margin-top: 2vh;
+}
+#vc h2{
     font-family: Roboto;
     margin-top: 2vh;
 }
@@ -48,14 +226,23 @@ section{
     display: inline-block;
     width: 80%;
     margin-top: 5vh;
-    line-height: 22px;
+    /* line-height: 22px; */
+    line-height:1.375rem;
+
 }
 #vc .waiting{
     margin-top: 20vh;
 }
 #vc .waiting-info{
     margin-top: 1vh;
-    line-height: 28px;
+    /* line-height: 28px; */
+    line-height:1.75rem;
+
+}
+
+/* roadmap-founder */
+.roadmap-founder{
+    background-color: black;
 }
 
 /*roadmap*/
@@ -66,7 +253,9 @@ section{
     padding-bottom: 30vh;
 }
 #roadmap p{
-    line-height: 22px;
+    /* line-height: 22px; */
+    line-height:1.375rem;
+
 }
 
 /*founder*/
@@ -98,7 +287,31 @@ section{
     text-align: left;
 }
 
+
+@media screen and (max-width:1024px){
+    /* nav */
+    nav {
+        height: 15vh;
+    }
+    nav .right{        
+        right: 10px;
+    }
+    /* team */    
+    #team .block{
+        width: 35%;
+    }
+}
 @media screen and (max-width:600px){
+    nav{
+        height: 12vh;
+    }
+    nav .logo-text{
+        display: none;
+    }
+    nav .right{
+        right:0px;
+        width: 30vw;
+    }
     h1{
         font-size: 36px;
     }
@@ -114,10 +327,14 @@ section{
 
     /*vc*/
     #vc p{
-        line-height: 16px;
+        /* line-height: 16px; */
+        line-height:1rem;
+
     }
     #vc .waiting-info{
-        line-height: 20px;
+        /* line-height: 20px; */
+        line-height:1.25rem;
+
     }
     
     /*founder*/
@@ -132,13 +349,30 @@ section{
         
     }
 }
+
+@media screen and (max-width: 426px){
+    nav .right{
+        width: 40vw;
+    }
+    /* team */    
+    #team .block{
+        width: 85%;
+    }
+}
+
+
 @media screen and (min-width:1024px){
     /*founder*/
     #founder p{
         margin: 5vh 2vw;
     }
 }
-@media screen and (min-width:1440px){
+@media screen and (min-width:1440px){    
+    /* nft */
+    #nft button{
+        font-size: 2rem;
+        margin-top: 100px;
+    }
     /*founder*/
     #founder p{
         margin: 5vh 4vw;
@@ -169,14 +403,17 @@ section{
     }
     /*vc*/
     #vc p{
-        line-height: 48px;
+        /* line-height: 48px; */
+        line-height:3rem;
     }
     #vc .waiting-info{
-        line-height: 48px;
+        /* line-height: 48px; */
+        line-height:3rem;
     }
     /*roadmap*/
     #roadmap p{
-        line-height: 48px;
+        /* line-height: 48px; */
+        line-height:3rem;
     }
     /*founder*/
     #founder .founder-pic{
