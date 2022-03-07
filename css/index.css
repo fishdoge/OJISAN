@@ -80,7 +80,7 @@ section{
     margin-top: 10vh;
 }
 #founder .founder-pic{
-    max-width: 20vw;
+    max-width: 25vw;
 }
 #founder .founder-container{
     display: inline-block;
@@ -89,7 +89,7 @@ section{
 }
 #founder .founder-info{
     display: inline-block;
-    width: 20vw;
+    width: 25vw;
     text-align: center;
     vertical-align: top;
     margin: 6vh 5vw;
@@ -132,10 +132,16 @@ section{
         
     }
 }
-@media screen and (min-width:1440px){
+@media screen and (min-width:1024px){
     /*founder*/
     #founder p{
         margin: 5vh 2vw;
+    }
+}
+@media screen and (min-width:1440px){
+    /*founder*/
+    #founder p{
+        margin: 5vh 4vw;
     }
 }
 @media screen and (min-width:1800px){
