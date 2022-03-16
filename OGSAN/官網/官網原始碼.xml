@@ -1,0 +1,2087 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>OGSAN</title>
+    <link>https://maracas-flatworm-8s73.squarespace.com</link>
+    <pubDate>Mon, 07 Mar 2022 03:44:03 +0000</pubDate>
+    <description />
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>668845845</wp:author_id>
+      <wp:author_login>editor@beforafter.org</wp:author_login>
+      <wp:author_email>editor@beforafter.org</wp:author_email>
+      <wp:author_display_name><![CDATA[Editor]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Editor]]></wp:author_first_name>
+      <wp:author_last_name />
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[null - null]]></wp:cat_name>
+      <wp:category_nicename>null-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <link>/home</link>
+      <title>Home</title>
+      <pubDate>Sun, 13 Mar 2022 14:41:06 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="622580444064863e6e32a7ae" id="sections">
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+      
+    
+    
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    black'
+  
+  data-section-id="622580444064863e6e32a7b0"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;6226d7b812bcbd1ddcdfb01a&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1646712760736,
+    &quot;updatedOn&quot;: 1646712760775,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1646712760736,
+    &quot;authorId&quot;: &quot;56a0e9c9b204d5ee038919b0&quot;,
+    &quot;systemDataId&quot;: &quot;aeb6c917-3d47-43aa-aedc-e32e1562273e&quot;,
+    &quot;systemDataVariants&quot;: &quot;1280x720,100w,300w,500w,750w,1000w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;OGSAN  KV.002.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;3d3829&quot;,
+      &quot;topRightAverage&quot;: &quot;373426&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;3f3b2b&quot;,
+      &quot;bottomRightAverage&quot;: &quot;322f26&quot;,
+      &quot;centerAverage&quot;: &quot;7f7e7c&quot;,
+      &quot;suggestedBgColor&quot;: &quot;2d2c28&quot;
+    },
+    &quot;urlId&quot;: &quot;5glmlwdw800wge142tiqoa30xtlk15&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;56a0e9c9b204d5ee038919b0&quot;,
+      &quot;displayName&quot;: &quot;Editor&quot;,
+      &quot;firstName&quot;: &quot;Editor&quot;,
+      &quot;lastName&quot;: &quot;&quot;,
+      &quot;websiteUrl&quot;: &quot;&quot;,
+      &quot;bio&quot;: &quot;&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/aeb6c917-3d47-43aa-aedc-e32e1562273e/OGSAN++KV.002.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;1280x720&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.0,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 90,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--custom&quot;,
+  &quot;customContentWidth&quot;: 76,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+     style="min-height: 90vh;" 
+  
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+            
+
+
+  
+<script>
+  "use strict";
+
+  var positionImage = function positionImage(imageEl) {
+    var imageDimensions = imageEl.dataset.imageDimensions.split('x');
+    var originalWidth = imageDimensions[0];
+    var originalHeight = imageDimensions[1];
+    var focalPoint = imageEl.dataset.imageFocalPoint.split(',');
+    var focalPointX = focalPoint[0];
+    var focalPointY = focalPoint[1];
+    var parentNode = imageEl.parentNode;
+
+    var scale = function () {
+      var imageRatio = originalWidth / originalHeight;
+      var parentClientSize = {
+        height: parentNode.clientHeight,
+        width: parentNode.clientWidth
+      };
+      var parentRatio = parentClientSize.width / parentClientSize.height;
+
+      if (imageRatio > parentRatio) {
+        return parentClientSize.height / originalHeight;
+      }
+
+      return parentClientSize.width / originalWidth;
+    }();
+
+    var getRelativeOffset = function getRelativeOffset() {
+      var targetWidth = Math.ceil(originalWidth * scale);
+      var targetHeight = Math.ceil(originalHeight * scale);
+      var parentDimensionWidth = parentNode.offsetWidth;
+      var parentDimensionHeight = parentNode.offsetHeight;
+      var overflowWidth = targetWidth - parentDimensionWidth;
+      var overflowHeight = targetHeight - parentDimensionHeight;
+      var valueX;
+
+      if (overflowWidth === 0) {
+        valueX = focalPointX;
+      } else {
+        valueX = Math.max(Math.min(targetWidth * focalPointX - parentDimensionWidth * 0.5, overflowWidth), 0) / overflowWidth;
+      }
+
+      var valueY;
+
+      if (overflowHeight === 0) {
+        valueY = focalPointY;
+      } else {
+        valueY = Math.max(Math.min(targetHeight * focalPointY - parentDimensionHeight * 0.5, overflowHeight), 0) / overflowHeight;
+      }
+
+      return {
+        valueX: valueX,
+        valueY: valueY
+      };
+    };
+
+    var relativeOffset = getRelativeOffset();
+    var valueX = relativeOffset.valueX;
+    var valueY = relativeOffset.valueY;
+    imageEl.style.objectPosition = "".concat(valueX * 100, "% ").concat(valueY * 100, "%");
+  };
+</script>
+
+
+
+    
+  <img alt=""
+    
+    src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/aeb6c917-3d47-43aa-aedc-e32e1562273e/OGSAN++KV.002.jpg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/aeb6c917-3d47-43aa-aedc-e32e1562273e/OGSAN++KV.002.jpg" data-image-dimensions="1280x720" data-image-focal-point="0.5,0.5" alt="OGSAN  KV.002.jpg" 
+    data-load="false"
+    
+       srcset="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/aeb6c917-3d47-43aa-aedc-e32e1562273e/OGSAN++KV.002.jpg?format=100w 100w,https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/aeb6c917-3d47-43aa-aedc-e32e1562273e/OGSAN++KV.002.jpg?format=300w 300w,https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/aeb6c917-3d47-43aa-aedc-e32e1562273e/OGSAN++KV.002.jpg?format=500w 500w,https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/aeb6c917-3d47-43aa-aedc-e32e1562273e/OGSAN++KV.002.jpg?format=750w 750w,https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/aeb6c917-3d47-43aa-aedc-e32e1562273e/OGSAN++KV.002.jpg?format=1000w 1000w,https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/aeb6c917-3d47-43aa-aedc-e32e1562273e/OGSAN++KV.002.jpg?format=original 1500w"
+      
+      sizes="(max-width: 799px) 200vw, 100vw" 
+      onLoad="positionImage(this); this.classList.add('loaded');"
+      loading="lazy"
+    
+  />
+
+          
+      
+      <div class="section-background-overlay" style="opacity: 0;"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(90vmax / 10); padding-bottom: calc(90vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+       style="width: 76%;" 
+    >
+      
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12 empty" data-type="page-section" id="page-section-622580444064863e6e32a7b0"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1646661359749_1749"><div class="sqs-block-content">
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    '
+  
+  data-section-id="6227624f0500fd2052df3969"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;62277195576f7a62a51c4dcb&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1646752149318,
+    &quot;updatedOn&quot;: 1646752149370,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1646752149318,
+    &quot;authorId&quot;: &quot;56a0e9c9b204d5ee038919b0&quot;,
+    &quot;systemDataId&quot;: &quot;fb1a100c-45f8-4b98-b470-8b58509a95d5&quot;,
+    &quot;systemDataVariants&quot;: &quot;1920x480,100w,300w,500w,750w,1000w,1500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;OG-BackgroundV2.001.jpeg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;0f0f0f&quot;,
+      &quot;topRightAverage&quot;: &quot;181718&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;0e0e0e&quot;,
+      &quot;bottomRightAverage&quot;: &quot;131313&quot;,
+      &quot;centerAverage&quot;: &quot;131213&quot;,
+      &quot;suggestedBgColor&quot;: &quot;191917&quot;
+    },
+    &quot;urlId&quot;: &quot;qlrr6obwozss7sef1ezyeo0nerd1hr&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;56a0e9c9b204d5ee038919b0&quot;,
+      &quot;displayName&quot;: &quot;Editor&quot;,
+      &quot;firstName&quot;: &quot;Editor&quot;,
+      &quot;lastName&quot;: &quot;&quot;,
+      &quot;websiteUrl&quot;: &quot;&quot;,
+      &quot;bio&quot;: &quot;&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/fb1a100c-45f8-4b98-b470-8b58509a95d5/OG-BackgroundV2.001.jpeg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;1920x480&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.0,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 44,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;backgroundColor&quot;: &quot;&quot;,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+     style="min-height: 44vh;" 
+  
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+
+
+
+
+    
+  <img alt=""
+    
+    src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/fb1a100c-45f8-4b98-b470-8b58509a95d5/OG-BackgroundV2.001.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/fb1a100c-45f8-4b98-b470-8b58509a95d5/OG-BackgroundV2.001.jpeg" data-image-dimensions="1920x480" data-image-focal-point="0.5,0.5" alt="OG-BackgroundV2.001.jpeg" 
+    data-load="false"
+    
+  />
+
+      
+      <div class="section-background-overlay" style="opacity: 0;"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(44vmax / 10); padding-bottom: calc(44vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-6227624f0500fd2052df3969"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-6227624fc566ea69985e7dc9"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">&nbsp;</p>
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+      
+    
+    
+    
+    horizontal-alignment--center
+    vertical-alignment--top
+    
+       has-background
+    
+    
+    '
+  
+  data-section-id="622584206a2c8f10bf3e3bba"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;62276c9ef5e47207ee7bf652&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1646750878360,
+    &quot;updatedOn&quot;: 1646750878416,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1646750878360,
+    &quot;authorId&quot;: &quot;56a0e9c9b204d5ee038919b0&quot;,
+    &quot;systemDataId&quot;: &quot;a8b57207-9058-4c59-923d-e695fd32b53d&quot;,
+    &quot;systemDataVariants&quot;: &quot;1280x540,100w,300w,500w,750w,1000w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;OG-素材1.001.jpeg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;131313&quot;,
+      &quot;topRightAverage&quot;: &quot;171717&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;0c0b08&quot;,
+      &quot;bottomRightAverage&quot;: &quot;141414&quot;,
+      &quot;centerAverage&quot;: &quot;0f0f0e&quot;,
+      &quot;suggestedBgColor&quot;: &quot;201f1f&quot;
+    },
+    &quot;urlId&quot;: &quot;rlht6kfzsz2iamngcu6q7ybt7cdxx4&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;56a0e9c9b204d5ee038919b0&quot;,
+      &quot;displayName&quot;: &quot;Editor&quot;,
+      &quot;firstName&quot;: &quot;Editor&quot;,
+      &quot;lastName&quot;: &quot;&quot;,
+      &quot;websiteUrl&quot;: &quot;&quot;,
+      &quot;bio&quot;: &quot;&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/a8b57207-9058-4c59-923d-e695fd32b53d/OG-%E7%B4%A0%E6%9D%901.001.jpeg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;1280x540&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.0,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 88,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--top&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--custom&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;backgroundColor&quot;: &quot;&quot;,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+     style="min-height: 88vh;" 
+  
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+
+
+
+
+    
+  <img alt=""
+    
+    src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/a8b57207-9058-4c59-923d-e695fd32b53d/OG-%E7%B4%A0%E6%9D%901.001.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/a8b57207-9058-4c59-923d-e695fd32b53d/OG-%E7%B4%A0%E6%9D%901.001.jpeg" data-image-dimensions="1280x540" data-image-focal-point="0.5,0.5" alt="OG-素材1.001.jpeg" 
+    data-load="false"
+    
+  />
+
+      
+      <div class="section-background-overlay" style="opacity: 0;"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+           padding-bottom: calc(88vmax / 5);
+        
+      
+    '
+  >
+    <div
+      class="content"
+       style="width: 50%;" 
+    >
+      
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-622584206a2c8f10bf3e3bba"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-1f12100974204ea0e844"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">&nbsp;</p>
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    '
+  
+  data-section-id="6227827eddacf318b33b1eab"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;62278327d235b63a9d93a8a2&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1646756647668,
+    &quot;updatedOn&quot;: 1646756647720,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1646756647668,
+    &quot;authorId&quot;: &quot;56a0e9c9b204d5ee038919b0&quot;,
+    &quot;systemDataId&quot;: &quot;7b82b163-4f28-4e88-9b55-ddb90a0e8528&quot;,
+    &quot;systemDataVariants&quot;: &quot;1280x540,100w,300w,500w,750w,1000w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;OG-素材5.001.jpeg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;212121&quot;,
+      &quot;topRightAverage&quot;: &quot;212121&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;000000&quot;,
+      &quot;bottomRightAverage&quot;: &quot;1d1a0e&quot;,
+      &quot;centerAverage&quot;: &quot;0d0d0d&quot;,
+      &quot;suggestedBgColor&quot;: &quot;181716&quot;
+    },
+    &quot;urlId&quot;: &quot;d0g24qdilfl16rcaal9dj50r0gpmh9&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;56a0e9c9b204d5ee038919b0&quot;,
+      &quot;displayName&quot;: &quot;Editor&quot;,
+      &quot;firstName&quot;: &quot;Editor&quot;,
+      &quot;lastName&quot;: &quot;&quot;,
+      &quot;websiteUrl&quot;: &quot;&quot;,
+      &quot;bio&quot;: &quot;&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/7b82b163-4f28-4e88-9b55-ddb90a0e8528/OG-%E7%B4%A0%E6%9D%905.001.jpeg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;1280x540&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.0,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 79,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;backgroundColor&quot;: &quot;&quot;,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+     style="min-height: 79vh;" 
+  
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+
+
+
+
+    
+  <img alt=""
+    
+    src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/7b82b163-4f28-4e88-9b55-ddb90a0e8528/OG-%E7%B4%A0%E6%9D%905.001.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/7b82b163-4f28-4e88-9b55-ddb90a0e8528/OG-%E7%B4%A0%E6%9D%905.001.jpeg" data-image-dimensions="1280x540" data-image-focal-point="0.5,0.5" alt="OG-素材5.001.jpeg" 
+    data-load="false"
+    
+  />
+
+      
+      <div class="section-background-overlay" style="opacity: 0;"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(79vmax / 10); padding-bottom: calc(79vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-6227827eddacf318b33b1eab"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-6227827e2635c942cac30810"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">&nbsp;</p>
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section
+    
+      gallery-section
+      full-bleed-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    black'
+  
+  data-section-id="62276d73e518a04946df8cfc"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;backgroundImage&quot;: null
+}"
+  data-animation="none"
+  data-json-schema-section 
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+        <div class="gallery gallery-section-wrapper" style="min-height: 100px;">
+          <div class="gallery" style="min-height: 100px;">
+  
+
+  
+
+  
+
+  
+    <!-- Gallery Slideshow -->
+<div
+  class="gallery-slideshow"
+  data-controller="GallerySlideshow"
+  
+  data-section-id="62276d73e518a04946df8cfc"
+  data-transition="slide-horizontal"
+  data-controls-location="side"
+  data-thumbnails="false"
+  data-show-captions="false"
+  data-props='{
+  "transition": "slide-horizontal",
+  "controlsLocation": "side",
+  "autoplayEnabled": true,
+  "slideDurationMs": 3500,
+  "galleryHeight": 75,
+  "galleryWidth": 80,
+  "thumbnailsEnabled": false
+}'
+  data-test="gallery-slideshow-simple"
+>
+  <div class="gallery-slideshow-wrapper">
+    <div class="gallery-slideshow-list" data-test="gallery-slideshow-list">
+      
+        <figure class="gallery-slideshow-item" data-slide-url="yc7z5dsug4id3pbr07d8icvxt74sic">
+          
+            <div class="gallery-slideshow-item-wrapper">
+              <div class="gallery-slideshow-item-src">
+                <div class="gallery-slideshow-item-img content-fit">
+                    <img src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/532601f4-2e5c-4ca1-a1b0-b9d3398b5fc1/OGSAN++%E5%AE%98%E7%B6%B2_%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B91.jpg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/532601f4-2e5c-4ca1-a1b0-b9d3398b5fc1/OGSAN++%E5%AE%98%E7%B6%B2_%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B91.jpg" data-image-dimensions="3555x2000" data-image-focal-point="0.5,0.5" alt="OGSAN  官網_人物介紹1.jpg"  data-load="false" />
+                    
+                </div>
+              </div>
+            </div>
+          
+          
+        </figure>
+      
+        <figure class="gallery-slideshow-item" data-slide-url="06mbk5ywkq0d0f7q3mvoqbp6f4z83b">
+          
+            <div class="gallery-slideshow-item-wrapper">
+              <div class="gallery-slideshow-item-src">
+                <div class="gallery-slideshow-item-img content-fit">
+                    <img src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/6aef71af-e0dc-467d-a36e-e0eb8d205a81/OGSAN++%E5%AE%98%E7%B6%B2_%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B92.jpg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/6aef71af-e0dc-467d-a36e-e0eb8d205a81/OGSAN++%E5%AE%98%E7%B6%B2_%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B92.jpg" data-image-dimensions="3555x2000" data-image-focal-point="0.5,0.5" alt="OGSAN  官網_人物介紹2.jpg"  data-load="false" />
+                    
+                </div>
+              </div>
+            </div>
+          
+          
+        </figure>
+      
+        <figure class="gallery-slideshow-item" data-slide-url="gqtmsfkz1w9jers3lsfnw53z58jin2">
+          
+            <div class="gallery-slideshow-item-wrapper">
+              <div class="gallery-slideshow-item-src">
+                <div class="gallery-slideshow-item-img content-fit">
+                    <img src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/bc0fa2bd-4384-4d28-80d3-4ba24b376f96/OGSAN++%E5%AE%98%E7%B6%B2_%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B93.jpg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/bc0fa2bd-4384-4d28-80d3-4ba24b376f96/OGSAN++%E5%AE%98%E7%B6%B2_%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B93.jpg" data-image-dimensions="3555x2000" data-image-focal-point="0.5,0.5" alt="OGSAN  官網_人物介紹3.jpg"  data-load="false" />
+                    
+                </div>
+              </div>
+            </div>
+          
+          
+        </figure>
+      
+        <figure class="gallery-slideshow-item" data-slide-url="stpdsk56z81chuwt007n2oxrme1cij">
+          
+            <div class="gallery-slideshow-item-wrapper">
+              <div class="gallery-slideshow-item-src">
+                <div class="gallery-slideshow-item-img content-fit">
+                    <img src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/9961e335-3a48-4097-a8f8-f7516b0df7ba/OGSAN++%E5%AE%98%E7%B6%B2_%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B94.jpg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/9961e335-3a48-4097-a8f8-f7516b0df7ba/OGSAN++%E5%AE%98%E7%B6%B2_%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B94.jpg" data-image-dimensions="3555x2000" data-image-focal-point="0.5,0.5" alt="OGSAN  官網_人物介紹4.jpg"  data-load="false" />
+                    
+                </div>
+              </div>
+            </div>
+          
+          
+        </figure>
+      
+        <figure class="gallery-slideshow-item" data-slide-url="zvmu5ujfjsmbq787x0mjgd86tmzd5j">
+          
+            <div class="gallery-slideshow-item-wrapper">
+              <div class="gallery-slideshow-item-src">
+                <div class="gallery-slideshow-item-img content-fit">
+                    <img src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/fef604d4-ea9f-4580-90ba-dc030e5b40dc/OGSAN++%E5%AE%98%E7%B6%B2_%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B95.jpg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/fef604d4-ea9f-4580-90ba-dc030e5b40dc/OGSAN++%E5%AE%98%E7%B6%B2_%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B95.jpg" data-image-dimensions="3555x2000" data-image-focal-point="0.5,0.5" alt="OGSAN  官網_人物介紹5.jpg"  data-load="false" />
+                    
+                </div>
+              </div>
+            </div>
+          
+          
+        </figure>
+      
+        <figure class="gallery-slideshow-item" data-slide-url="5qven6f4j0cfo4o0yieyytnity6s1a">
+          
+            <div class="gallery-slideshow-item-wrapper">
+              <div class="gallery-slideshow-item-src">
+                <div class="gallery-slideshow-item-img content-fit">
+                    <img src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/78d51e61-762b-4a46-b8b5-14ede8d81e66/OGSAN++%E5%AE%98%E7%B6%B2_%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B96.jpg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/78d51e61-762b-4a46-b8b5-14ede8d81e66/OGSAN++%E5%AE%98%E7%B6%B2_%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B96.jpg" data-image-dimensions="3555x2000" data-image-focal-point="0.5,0.5" alt="OGSAN  官網_人物介紹6.jpg"  data-load="false" />
+                    
+                </div>
+              </div>
+            </div>
+          
+          
+        </figure>
+      
+    </div>
+
+    <div class="gallery-slideshow-controls">
+      <div class="gallery-slideshow-control gallery-slideshow-control-prev" data-test="gallery-slideshow-control">
+        <button class="gallery-slideshow-control-btn" data-previous aria-label="">
+          <div class="gallery-slideshow-control-btn-icon">
+            <svg class="caret-left-icon--small" viewBox="0 0 9 16">
+              <polyline fill="none" stroke-miterlimit="10" points="7.3,14.7 2.5,8 7.3,1.2 "/>
+            </svg>
+          </div>
+        </button>
+      </div>
+      <div class="gallery-slideshow-control gallery-slideshow-control-next">
+        <button class="gallery-slideshow-control-btn" data-next aria-label="">
+          <div class="gallery-slideshow-control-btn-icon">
+            <svg class="caret-right-icon--small" viewBox="0 0 9 16">
+              <polyline fill="none" stroke-miterlimit="10" points="1.6,1.2 6.5,7.9 1.6,14.7 "/>
+            </svg>
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <div class="gallery-slideshow-thumbnails" data-test="gallery-slideshow-thumbnails">
+    <div class="gallery-slideshow-thumbnails-scroll">
+      
+      <button class="gallery-slideshow-thumbnails-thumb content-fill">
+        <span hidden class="js-slideshow-inactive-slide"></span>
+        <span hidden class="js-slideshow-active-slide"></span>
+        <div class="gallery-slideshow-thumbnails-image-wrapper">
+          <img src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/532601f4-2e5c-4ca1-a1b0-b9d3398b5fc1/OGSAN++%E5%AE%98%E7%B6%B2_%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B91.jpg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/532601f4-2e5c-4ca1-a1b0-b9d3398b5fc1/OGSAN++%E5%AE%98%E7%B6%B2_%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B91.jpg" data-image-dimensions="3555x2000" data-image-focal-point="0.5,0.5" alt="OGSAN  官網_人物介紹1.jpg"  data-load="false" />
+        </div>
+      </button>
+      
+      <button class="gallery-slideshow-thumbnails-thumb content-fill">
+        <span hidden class="js-slideshow-inactive-slide"></span>
+        <span hidden class="js-slideshow-active-slide"></span>
+        <div class="gallery-slideshow-thumbnails-image-wrapper">
+          <img src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/6aef71af-e0dc-467d-a36e-e0eb8d205a81/OGSAN++%E5%AE%98%E7%B6%B2_%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B92.jpg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/6aef71af-e0dc-467d-a36e-e0eb8d205a81/OGSAN++%E5%AE%98%E7%B6%B2_%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B92.jpg" data-image-dimensions="3555x2000" data-image-focal-point="0.5,0.5" alt="OGSAN  官網_人物介紹2.jpg"  data-load="false" />
+        </div>
+      </button>
+      
+      <button class="gallery-slideshow-thumbnails-thumb content-fill">
+        <span hidden class="js-slideshow-inactive-slide"></span>
+        <span hidden class="js-slideshow-active-slide"></span>
+        <div class="gallery-slideshow-thumbnails-image-wrapper">
+          <img src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/bc0fa2bd-4384-4d28-80d3-4ba24b376f96/OGSAN++%E5%AE%98%E7%B6%B2_%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B93.jpg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/bc0fa2bd-4384-4d28-80d3-4ba24b376f96/OGSAN++%E5%AE%98%E7%B6%B2_%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B93.jpg" data-image-dimensions="3555x2000" data-image-focal-point="0.5,0.5" alt="OGSAN  官網_人物介紹3.jpg"  data-load="false" />
+        </div>
+      </button>
+      
+      <button class="gallery-slideshow-thumbnails-thumb content-fill">
+        <span hidden class="js-slideshow-inactive-slide"></span>
+        <span hidden class="js-slideshow-active-slide"></span>
+        <div class="gallery-slideshow-thumbnails-image-wrapper">
+          <img src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/9961e335-3a48-4097-a8f8-f7516b0df7ba/OGSAN++%E5%AE%98%E7%B6%B2_%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B94.jpg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/9961e335-3a48-4097-a8f8-f7516b0df7ba/OGSAN++%E5%AE%98%E7%B6%B2_%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B94.jpg" data-image-dimensions="3555x2000" data-image-focal-point="0.5,0.5" alt="OGSAN  官網_人物介紹4.jpg"  data-load="false" />
+        </div>
+      </button>
+      
+      <button class="gallery-slideshow-thumbnails-thumb content-fill">
+        <span hidden class="js-slideshow-inactive-slide"></span>
+        <span hidden class="js-slideshow-active-slide"></span>
+        <div class="gallery-slideshow-thumbnails-image-wrapper">
+          <img src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/fef604d4-ea9f-4580-90ba-dc030e5b40dc/OGSAN++%E5%AE%98%E7%B6%B2_%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B95.jpg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/fef604d4-ea9f-4580-90ba-dc030e5b40dc/OGSAN++%E5%AE%98%E7%B6%B2_%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B95.jpg" data-image-dimensions="3555x2000" data-image-focal-point="0.5,0.5" alt="OGSAN  官網_人物介紹5.jpg"  data-load="false" />
+        </div>
+      </button>
+      
+      <button class="gallery-slideshow-thumbnails-thumb content-fill">
+        <span hidden class="js-slideshow-inactive-slide"></span>
+        <span hidden class="js-slideshow-active-slide"></span>
+        <div class="gallery-slideshow-thumbnails-image-wrapper">
+          <img src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/78d51e61-762b-4a46-b8b5-14ede8d81e66/OGSAN++%E5%AE%98%E7%B6%B2_%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B96.jpg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/78d51e61-762b-4a46-b8b5-14ede8d81e66/OGSAN++%E5%AE%98%E7%B6%B2_%E4%BA%BA%E7%89%A9%E4%BB%8B%E7%B4%B96.jpg" data-image-dimensions="3555x2000" data-image-focal-point="0.5,0.5" alt="OGSAN  官網_人物介紹6.jpg"  data-load="false" />
+        </div>
+      </button>
+      
+    </div>
+  </div>
+</div>
+
+  
+
+  
+
+  
+</div>
+        </div>
+      
+      
+      
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    '
+  
+  data-section-id="62258f9b7f16c831317b011a"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;62283e268f4d81624abdf59e&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1646804518167,
+    &quot;updatedOn&quot;: 1646804518224,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1646804518167,
+    &quot;authorId&quot;: &quot;56a0e9c9b204d5ee038919b0&quot;,
+    &quot;systemDataId&quot;: &quot;6c2c2e8f-4b44-43e0-9f35-40e2f4b64454&quot;,
+    &quot;systemDataVariants&quot;: &quot;1080x456,100w,300w,500w,750w,1000w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;GIF&quot;,
+    &quot;filename&quot;: &quot;OG-素材.gif&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;1b1b1b&quot;,
+      &quot;topRightAverage&quot;: &quot;1a1a1a&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;1b1b1b&quot;,
+      &quot;bottomRightAverage&quot;: &quot;1b1b1b&quot;,
+      &quot;centerAverage&quot;: &quot;1b1b1b&quot;,
+      &quot;suggestedBgColor&quot;: &quot;1b1b1b&quot;
+    },
+    &quot;urlId&quot;: &quot;oacejzxfek76ka625t23h88y8jmbek&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;56a0e9c9b204d5ee038919b0&quot;,
+      &quot;displayName&quot;: &quot;Editor&quot;,
+      &quot;firstName&quot;: &quot;Editor&quot;,
+      &quot;lastName&quot;: &quot;&quot;,
+      &quot;websiteUrl&quot;: &quot;&quot;,
+      &quot;bio&quot;: &quot;&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/6c2c2e8f-4b44-43e0-9f35-40e2f4b64454/OG-%E7%B4%A0%E6%9D%90.gif&quot;,
+    &quot;contentType&quot;: &quot;image/gif&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;1080x456&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.0,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 78,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;backgroundColor&quot;: &quot;&quot;,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+     style="min-height: 78vh;" 
+  
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+
+
+
+
+    
+  <img alt=""
+    
+    src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/6c2c2e8f-4b44-43e0-9f35-40e2f4b64454/OG-%E7%B4%A0%E6%9D%90.gif" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/6c2c2e8f-4b44-43e0-9f35-40e2f4b64454/OG-%E7%B4%A0%E6%9D%90.gif" data-image-dimensions="1080x456" data-image-focal-point="0.5,0.5" alt="OG-素材.gif" 
+    data-load="false"
+    
+  />
+
+      
+      <div class="section-background-overlay" style="opacity: 0;"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(78vmax / 10); padding-bottom: calc(78vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-62258f9b7f16c831317b011a"><div class="row sqs-row"><div class="col sqs-col-7 span-7"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1646802209677_6029"><div class="sqs-block-content">&nbsp;</div></div></div><div class="col sqs-col-4 span-4"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-62258f9b95782f73a1bf0871"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;">&nbsp;</p>
+</div></div></div><div class="col sqs-col-1 span-1"><div class="sqs-block spacer-block sqs-block-spacer sized vsize-1" data-block-type="21" id="block-yui_3_17_2_1_1646802209677_7970"><div class="sqs-block-content">&nbsp;</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    black'
+  
+  data-section-id="622748f0f0c44161f8de5275"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;imageOverlayOpacity&quot;: 0.0,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 16,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--custom&quot;,
+  &quot;customContentWidth&quot;: 36,
+  &quot;backgroundColor&quot;: &quot;&quot;,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+     style="min-height: 16vh;" 
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(16vmax / 10); padding-bottom: calc(16vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+       style="width: 36%;" 
+    >
+      
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-622748f0f0c44161f8de5275"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-622748f00f25092a4839e154"><div class="sqs-block-content"><h3 style="text-align:center;white-space:pre-wrap;">&nbsp;<strong>Visual Creation</strong></h3>
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    black'
+  
+  data-section-id="62274c093663cf0a795d259c"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;62274d5d57f5481ef299e3f5&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1646742877819,
+    &quot;updatedOn&quot;: 1646742877873,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1646742877819,
+    &quot;authorId&quot;: &quot;56a0e9c9b204d5ee038919b0&quot;,
+    &quot;systemDataId&quot;: &quot;12abf2ac-59de-4b94-8739-5a8f240923fc&quot;,
+    &quot;systemDataVariants&quot;: &quot;1280x540,100w,300w,500w,750w,1000w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;OG-素材.001.jpeg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;000000&quot;,
+      &quot;topRightAverage&quot;: &quot;080604&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;000000&quot;,
+      &quot;bottomRightAverage&quot;: &quot;040302&quot;,
+      &quot;centerAverage&quot;: &quot;464646&quot;,
+      &quot;suggestedBgColor&quot;: &quot;141313&quot;
+    },
+    &quot;urlId&quot;: &quot;ewmhbw43jue4wkqpd9hms7e6cr2k9u&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;56a0e9c9b204d5ee038919b0&quot;,
+      &quot;displayName&quot;: &quot;Editor&quot;,
+      &quot;firstName&quot;: &quot;Editor&quot;,
+      &quot;lastName&quot;: &quot;&quot;,
+      &quot;websiteUrl&quot;: &quot;&quot;,
+      &quot;bio&quot;: &quot;&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/12abf2ac-59de-4b94-8739-5a8f240923fc/OG-%E7%B4%A0%E6%9D%90.001.jpeg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;1280x540&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+
+
+
+
+    
+  <img alt=""
+    
+    src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/12abf2ac-59de-4b94-8739-5a8f240923fc/OG-%E7%B4%A0%E6%9D%90.001.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/12abf2ac-59de-4b94-8739-5a8f240923fc/OG-%E7%B4%A0%E6%9D%90.001.jpeg" data-image-dimensions="1280x540" data-image-focal-point="0.5,0.5" alt="OG-素材.001.jpeg" 
+    data-load="false"
+    
+  />
+
+      
+      <div class="section-background-overlay" style="opacity: 0.15;"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-62274c093663cf0a795d259c"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1646661359749_45524"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;"><strong>I’M 馬賽</strong>KYO</h3><pre><code>跨界多方位創意人， 具廣告人、極地攝影師、平面設計師、產品設計師、插畫家、導演、 旅行圖文作者、
+國際設計與攝影競賽評審、大學數位創作講師……多元身份。 
+二十多次踏入極圈，追逐極光近三百夜。 熱愛旅行，以隨興的步調走過五十多個國家，  長途跋涉前往北極、
+南極只為尋找地球原始樣貌的美麗。  
+台灣首位獲選 法國PX3 國際攝影大獎年度廣告攝影師 
+『Professional – Prix de la Photographie Paris 2019Advertising Photographer of the Year 』</code></pre><pre><code>擁有英國倫敦國際獎 (London International Awards)、紐約國際廣告獎  (The New York Festivals) 以及
+美國莫比斯國際廣告獎 (The Mobius Advertising Awards) 三大國際廣告獎廣告插畫類 金獎，巴黎PX3、美國IPA、莫斯科MIFA、東京TIFA、 布達佩斯BIFA五大國際攝影獎職業組 金獎以及三百多項平面設計、廣告插畫與攝影跨領域獎項。</code></pre>
+</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="3.4108527131782944" data-block-type="21" id="block-yui_3_17_2_1_1646661359749_32894"><div class="sqs-block-content">&nbsp;</div></div></div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      
+        section-height--custom
+      
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    '
+  
+  data-section-id="62274fcbb9c1a000f3a82716"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;62274fd4742c61714a1d3fa4&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1646743508738,
+    &quot;updatedOn&quot;: 1646743508789,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1646743508738,
+    &quot;authorId&quot;: &quot;56a0e9c9b204d5ee038919b0&quot;,
+    &quot;systemDataId&quot;: &quot;bfa9fa13-e3e1-4c25-b9aa-da03097d59b2&quot;,
+    &quot;systemDataVariants&quot;: &quot;1920x480,100w,300w,500w,750w,1000w,1500w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;OG-Background.001.jpeg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.5,
+      &quot;y&quot;: 0.5,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;000000&quot;,
+      &quot;topRightAverage&quot;: &quot;090909&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;0c0c0c&quot;,
+      &quot;bottomRightAverage&quot;: &quot;020202&quot;,
+      &quot;centerAverage&quot;: &quot;050505&quot;,
+      &quot;suggestedBgColor&quot;: &quot;090909&quot;
+    },
+    &quot;urlId&quot;: &quot;4qa2ng5wm3a33lofgf1nzj7mxr2csg&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;56a0e9c9b204d5ee038919b0&quot;,
+      &quot;displayName&quot;: &quot;Editor&quot;,
+      &quot;firstName&quot;: &quot;Editor&quot;,
+      &quot;lastName&quot;: &quot;&quot;,
+      &quot;websiteUrl&quot;: &quot;&quot;,
+      &quot;bio&quot;: &quot;&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/bfa9fa13-e3e1-4c25-b9aa-da03097d59b2/OG-Background.001.jpeg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;1920x480&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.0,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--custom&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;backgroundColor&quot;: &quot;&quot;,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+     style="min-height: 10vh;" 
+  
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+
+
+
+
+    
+  <img alt=""
+    
+    src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/bfa9fa13-e3e1-4c25-b9aa-da03097d59b2/OG-Background.001.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/bfa9fa13-e3e1-4c25-b9aa-da03097d59b2/OG-Background.001.jpeg" data-image-dimensions="1920x480" data-image-focal-point="0.5,0.5" alt="OG-Background.001.jpeg" 
+    data-load="false"
+    
+  />
+
+      
+      <div class="section-background-overlay" style="opacity: 0;"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+          
+          
+          padding-top: calc(10vmax / 10); padding-bottom: calc(10vmax / 10);
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12" data-type="page-section" id="page-section-62274fcbb9c1a000f3a82716"><div class="row sqs-row"><div class="col sqs-col-6 span-6"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1646743439421_20806"><div class="sqs-block-content"><h3 style="white-space:pre-wrap;"><span class="sqsrte-text-color--white"><strong>List of Awards</strong></span></h3><p class="" style="white-space:pre-wrap;"><span class="sqsrte-text-color--white">over three hundreds of awards such as illustration, advertisement and photography category.</span></p>
+</div></div><div class="sqs-block horizontalrule-block sqs-block-horizontalrule" data-block-type="47" id="block-yui_3_17_2_1_1646743439421_33558"><div class="sqs-block-content"><hr /></div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1646743439421_29645"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;"><span class="sqsrte-text-color--white"><strong>Won the homepage of the 2018 Paris PX3 (Prix de la Photographie Paris)&nbsp; official website.</strong></span></p><ul data-rte-list="default"><li><p class="sqsrte-small" style="white-space:pre-wrap;"><span class="sqsrte-text-color--white">Won the homepage of the 2018 Paris PX3 (Prix de la Photographie Paris)&nbsp; official website.<br>GOLD Award of illustration category , London International Awards<br>GOLD Award of illustration category, The New York Festivals<br>GOLD Award of illustration category, The Mobius Advertising Awards</span></p></li></ul><p class="" style="white-space:pre-wrap;"><span class="sqsrte-text-color--white"><strong>D&amp;AD Awards</strong></span></p><ul data-rte-list="default"><li><p class="sqsrte-small" style="white-space:pre-wrap;"><span class="sqsrte-text-color--white">&nbsp;『Professional – Prix de la Photographie Paris 2019 Advertising Photographer of the Year 』<br>GOLD Awards of Professional, PX3 (Prix de la Photographie Paris)<br>GOLD Awards of Professional, TIFA (TOKYO INTERNATIONAL FOTO AWARDS)<br>GOLD Awards of Professional, MIFA (MOSCOW INTERNATIONAL FOTO AWARDS)<br>GOLD Awards of Professional, BIFA (BUDAPEST INTERNATIONAL FOTO AWARDS)<br>GOLD Award of Professional, IPA (International Photography Awards USA)</span></p></li></ul><p class="" style="white-space:pre-wrap;"><span class="sqsrte-text-color--white"><strong>D&amp;AD Awards</strong></span></p><ul data-rte-list="default"><li><p class="sqsrte-small" style="white-space:pre-wrap;"><span class="sqsrte-text-color--white">London International Creative Competition&nbsp;<br>International Poster Biennale in Warsaw<br>The International Biennale of Poster in Mexico</span></p></li></ul><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p>
+</div></div></div><div class="col sqs-col-6 span-6"><div class="sqs-block spacer-block sqs-block-spacer" data-aspect-ratio="19.689922480620154" data-block-type="21" id="block-yui_3_17_2_1_1646756964635_12469"><div class="sqs-block-content">&nbsp;</div></div><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1646756964635_6247"><div class="sqs-block-content"><p class="" style="white-space:pre-wrap;"><span class="sqsrte-text-color--white"><strong>D&amp;AD Awards</strong></span></p><ul data-rte-list="default"><li><p class="sqsrte-small" style="white-space:pre-wrap;"><span class="sqsrte-text-color--white">London International Creative Competition&nbsp;<br>International Poster Biennale in Warsaw<br>The International Biennale of Poster in Mexico</span></p></li></ul><p class="" style="white-space:pre-wrap;"><span class="sqsrte-text-color--white"><strong>AWARD Awards, Australia</strong></span></p><ul data-rte-list="default"><li><p class="sqsrte-small" style="white-space:pre-wrap;"><span class="sqsrte-text-color--white">Taiwan International Graphic Design Award<br>Taipei International Design Award<br>Sony World Photography Awards<br>Leica International Photography Awards</span></p></li></ul><p class="" style="white-space:pre-wrap;"><br><br></p>
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme="black"
+  class='page-section
+    
+      gallery-section
+      full-bleed-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+      
+    
+    
+    black'
+  
+  data-section-id="62283e5e754f6126c97d88a9"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;imageOverlayOpacity&quot;: 0.15,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;,
+  &quot;sectionTheme&quot;: &quot;black&quot;,
+  &quot;backgroundImage&quot;: null
+}"
+  data-animation="none"
+  data-json-schema-section 
+  
+  
+>
+  <div class="section-background">
+  
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+        <div class="gallery gallery-section-wrapper" style="min-height: 100px;">
+          <div class="gallery" style="min-height: 100px;">
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+    <!-- Gallery Reel -->
+<div
+  class="gallery-reel"
+  data-controller="GalleryReel"
+  
+  data-section-id="62283e5e754f6126c97d88a9"
+  data-controls-location="below-center"
+  data-width="full-bleed"
+  data-props='{
+  "isCropping": false,
+  "controlsLocation": "below-center",
+  "viewportHeight": 47,
+  "width": "full-bleed"
+}'
+  style="height: 47vh;"
+  data-show-captions="false"
+  data-test="gallery-slideshow-reel"
+>
+  <div class="gallery-reel-wrapper">
+    <div class="gallery-reel-list">
+      
+        <figure class="gallery-reel-item" data-test="gallery-reel-item" data-slide-url="80mfq9nlhxnrhquw9hdn8bmxt2jiqr">
+          
+          <div class="gallery-reel-item-wrapper">
+            <div class="gallery-reel-item-src">
+              <img src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/db089ca0-0e2d-4202-bf07-28f3480d0b58/OG+SAN_V0.001.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/db089ca0-0e2d-4202-bf07-28f3480d0b58/OG+SAN_V0.001.jpeg" data-image-dimensions="1280x720" data-image-focal-point="0.5,0.5" alt="OG SAN_V0.001.jpeg"  data-load="false" />
+              
+            </div>
+          </div>
+          
+          
+        </figure>
+      
+        <figure class="gallery-reel-item" data-test="gallery-reel-item" data-slide-url="xj44jnep7t895xprigt773kd453k36">
+          
+          <div class="gallery-reel-item-wrapper">
+            <div class="gallery-reel-item-src">
+              <img src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/a2de537c-7c86-485a-9686-48b7d76f90b2/OG+SAN_V0.002.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/a2de537c-7c86-485a-9686-48b7d76f90b2/OG+SAN_V0.002.jpeg" data-image-dimensions="1280x720" data-image-focal-point="0.5,0.5" alt="OG SAN_V0.002.jpeg"  data-load="false" />
+              
+            </div>
+          </div>
+          
+          
+        </figure>
+      
+        <figure class="gallery-reel-item" data-test="gallery-reel-item" data-slide-url="wju3u65wcf28v3ksf7bdcqx8ulkgwv">
+          
+          <div class="gallery-reel-item-wrapper">
+            <div class="gallery-reel-item-src">
+              <img src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/99d0e36c-8c07-4c90-ad4a-dbae0e5ceb18/OG+SAN_V0.003.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/99d0e36c-8c07-4c90-ad4a-dbae0e5ceb18/OG+SAN_V0.003.jpeg" data-image-dimensions="1280x720" data-image-focal-point="0.5,0.5" alt="OG SAN_V0.003.jpeg"  data-load="false" />
+              
+            </div>
+          </div>
+          
+          
+        </figure>
+      
+        <figure class="gallery-reel-item" data-test="gallery-reel-item" data-slide-url="15ehoz7gyevoa5g1ldtzir86cqv2z1">
+          
+          <div class="gallery-reel-item-wrapper">
+            <div class="gallery-reel-item-src">
+              <img src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/b86c639a-bffd-4f5b-b655-f2d5cd96e75d/OG+SAN_V0.004.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/b86c639a-bffd-4f5b-b655-f2d5cd96e75d/OG+SAN_V0.004.jpeg" data-image-dimensions="1280x720" data-image-focal-point="0.5,0.5" alt="OG SAN_V0.004.jpeg"  data-load="false" />
+              
+            </div>
+          </div>
+          
+          
+        </figure>
+      
+    </div>
+    <div class="gallery-reel-controls">
+      <div class="gallery-reel-control">
+        <button class="gallery-reel-control-btn" data-test="gallery-reel-control-btn-previous" data-previous aria-label="">
+          <div class="gallery-reel-control-btn-icon">
+            <svg viewBox="0 0 60 30">
+            <path class="st0" d="M15.9,23.7L7.1,15l8.7-8.7" fill="none"/>
+            <path class="st1" d="M52.9,15H8.5" fill="none"/>
+            </svg>
+          </div>
+        </button>
+      </div>
+      <div class="gallery-reel-control">
+        <button class="gallery-reel-control-btn" data-test="gallery-reel-control-btn-next" data-next aria-label="">
+          <div class="gallery-reel-control-btn-icon">
+            <svg viewBox="0 0 60 30">
+            <path d="M44.1,6.3l8.7,8.7l-8.7,8.7" fill="none"/>
+            <path d="M7.1,15h44.4" fill="none"/>
+            </svg>
+          </div>
+        </button>
+      </div>
+    </div>
+  </div>
+  <div class="gallery-lightbox-outer-wrapper" data-lightbox="false" data-controller="Lightbox">
+    <div
+  role="dialog"
+  aria-label=""
+  class="
+    gallery-lightbox
+    
+    black
+  "
+>
+  <div class="gallery-lightbox-background"></div>
+
+<div class="gallery-lightbox-header">
+  <button class="gallery-lightbox-close-btn" aria-label="" data-close data-test="gallery-lightbox-close">
+    <div class="gallery-lightbox-close-btn-icon">
+      <svg viewBox="0 0 40 40">
+        <path d="M4.3,35.7L35.7,4.3"/>
+        <path d="M4.3,4.3l31.4,31.4"/>
+      </svg>
+    </div>
+  </button>
+</div>
+
+
+  <div class="gallery-lightbox-wrapper">
+    <div class="gallery-lightbox-list">
+      
+        <figure
+          class="gallery-lightbox-item"
+          data-slide-url="80mfq9nlhxnrhquw9hdn8bmxt2jiqr"
+          
+          data-test="gallery-lightbox-item"
+        >
+          <div class="gallery-lightbox-item-wrapper">
+            <div class="gallery-lightbox-item-src">
+              <div
+                class="
+                  gallery-lightbox-item-img
+                  content-fit
+                "
+              >
+                
+                  <img
+                    src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/db089ca0-0e2d-4202-bf07-28f3480d0b58/OG+SAN_V0.001.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/db089ca0-0e2d-4202-bf07-28f3480d0b58/OG+SAN_V0.001.jpeg" data-image-dimensions="1280x720" data-image-focal-point="0.5,0.5" alt="OG SAN_V0.001.jpeg" 
+                    data-load="false"
+                  />
+                
+                
+              </div>
+            </div>
+          </div>
+        </figure>
+      
+        <figure
+          class="gallery-lightbox-item"
+          data-slide-url="xj44jnep7t895xprigt773kd453k36"
+          
+          data-test="gallery-lightbox-item"
+        >
+          <div class="gallery-lightbox-item-wrapper">
+            <div class="gallery-lightbox-item-src">
+              <div
+                class="
+                  gallery-lightbox-item-img
+                  content-fit
+                "
+              >
+                
+                  <img
+                    src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/a2de537c-7c86-485a-9686-48b7d76f90b2/OG+SAN_V0.002.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/a2de537c-7c86-485a-9686-48b7d76f90b2/OG+SAN_V0.002.jpeg" data-image-dimensions="1280x720" data-image-focal-point="0.5,0.5" alt="OG SAN_V0.002.jpeg" 
+                    data-load="false"
+                  />
+                
+                
+              </div>
+            </div>
+          </div>
+        </figure>
+      
+        <figure
+          class="gallery-lightbox-item"
+          data-slide-url="wju3u65wcf28v3ksf7bdcqx8ulkgwv"
+          
+          data-test="gallery-lightbox-item"
+        >
+          <div class="gallery-lightbox-item-wrapper">
+            <div class="gallery-lightbox-item-src">
+              <div
+                class="
+                  gallery-lightbox-item-img
+                  content-fit
+                "
+              >
+                
+                  <img
+                    src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/99d0e36c-8c07-4c90-ad4a-dbae0e5ceb18/OG+SAN_V0.003.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/99d0e36c-8c07-4c90-ad4a-dbae0e5ceb18/OG+SAN_V0.003.jpeg" data-image-dimensions="1280x720" data-image-focal-point="0.5,0.5" alt="OG SAN_V0.003.jpeg" 
+                    data-load="false"
+                  />
+                
+                
+              </div>
+            </div>
+          </div>
+        </figure>
+      
+        <figure
+          class="gallery-lightbox-item"
+          data-slide-url="15ehoz7gyevoa5g1ldtzir86cqv2z1"
+          
+          data-test="gallery-lightbox-item"
+        >
+          <div class="gallery-lightbox-item-wrapper">
+            <div class="gallery-lightbox-item-src">
+              <div
+                class="
+                  gallery-lightbox-item-img
+                  content-fit
+                "
+              >
+                
+                  <img
+                    src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/b86c639a-bffd-4f5b-b655-f2d5cd96e75d/OG+SAN_V0.004.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/b86c639a-bffd-4f5b-b655-f2d5cd96e75d/OG+SAN_V0.004.jpeg" data-image-dimensions="1280x720" data-image-focal-point="0.5,0.5" alt="OG SAN_V0.004.jpeg" 
+                    data-load="false"
+                  />
+                
+                
+              </div>
+            </div>
+          </div>
+        </figure>
+      
+    </div>
+
+    <div class="gallery-lightbox-controls" data-test="gallery-lightbox-controls">
+  <div class="gallery-lightbox-control" data-previous data-test="gallery-lightbox-control-previous">
+    <button class="gallery-lightbox-control-btn" aria-label="">
+      <div class="gallery-lightbox-control-btn-icon">
+        <svg class="caret-left-icon--small" viewBox="0 0 9 16">
+          <polyline fill="none" stroke-miterlimit="10" points="7.3,14.7 2.5,8 7.3,1.2 "/>
+        </svg>
+      </div>
+    </button>
+  </div>
+  <div class="gallery-lightbox-control" data-next data-test="gallery-lightbox-control-next">
+    <button class="gallery-lightbox-control-btn" aria-label="">
+      <div class="gallery-lightbox-control-btn-icon">
+        <svg class="caret-right-icon--small" viewBox="0 0 9 16">
+          <polyline fill="none" stroke-miterlimit="10" points="1.6,1.2 6.5,7.9 1.6,14.7 "/>
+        </svg>
+      </div>
+    </button>
+  </div>
+</div>
+
+  </div>
+</div>
+
+  </div>
+</div>
+
+  
+</div>
+        </div>
+      
+      
+      
+    </div>
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>home</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/new-page</link>
+      <title>New Page</title>
+      <pubDate>Tue, 08 Mar 2022 14:14:31 +0000</pubDate>
+      <content:encoded><![CDATA[<article class="sections" data-page-sections="6227641fe0ec1d7f7fa086b0" id="sections">
+  
+    <section
+  data-test="page-section"
+  
+  data-section-theme=""
+  class='page-section
+    
+      layout-engine-section
+    
+    background-width--full-bleed
+    
+      section-height--medium
+    
+    
+      content-width--wide
+    
+    horizontal-alignment--center
+    vertical-alignment--middle
+    
+       has-background
+    
+    
+    '
+  
+  data-section-id="62276436b5d3c1636f51f46c"
+  
+  data-controller="SectionWrapperController"
+  data-current-styles="{
+  &quot;backgroundImage&quot;: {
+    &quot;id&quot;: &quot;62276499a6b25c37cdec629c&quot;,
+    &quot;recordType&quot;: 2,
+    &quot;addedOn&quot;: 1646748825754,
+    &quot;updatedOn&quot;: 1646748828190,
+    &quot;workflowState&quot;: 1,
+    &quot;publishOn&quot;: 1646748825754,
+    &quot;authorId&quot;: &quot;56a0e9c9b204d5ee038919b0&quot;,
+    &quot;systemDataId&quot;: &quot;aeb6c917-3d47-43aa-aedc-e32e1562273e&quot;,
+    &quot;systemDataVariants&quot;: &quot;1280x720,100w,300w,500w,750w,1000w&quot;,
+    &quot;systemDataSourceType&quot;: &quot;JPG&quot;,
+    &quot;filename&quot;: &quot;OGSAN  KV.002.jpg&quot;,
+    &quot;mediaFocalPoint&quot;: {
+      &quot;x&quot;: 0.7165820642978004,
+      &quot;y&quot;: 0.48,
+      &quot;source&quot;: 3
+    },
+    &quot;colorData&quot;: {
+      &quot;topLeftAverage&quot;: &quot;3d3829&quot;,
+      &quot;topRightAverage&quot;: &quot;373426&quot;,
+      &quot;bottomLeftAverage&quot;: &quot;3f3b2b&quot;,
+      &quot;bottomRightAverage&quot;: &quot;322f26&quot;,
+      &quot;centerAverage&quot;: &quot;7f7e7c&quot;,
+      &quot;suggestedBgColor&quot;: &quot;2d2c28&quot;
+    },
+    &quot;urlId&quot;: &quot;2psdriwjifnegd7o7ngy0p62417yuk&quot;,
+    &quot;title&quot;: &quot;&quot;,
+    &quot;body&quot;: null,
+    &quot;likeCount&quot;: 0,
+    &quot;commentCount&quot;: 0,
+    &quot;publicCommentCount&quot;: 0,
+    &quot;commentState&quot;: 2,
+    &quot;unsaved&quot;: false,
+    &quot;author&quot;: {
+      &quot;id&quot;: &quot;56a0e9c9b204d5ee038919b0&quot;,
+      &quot;displayName&quot;: &quot;Editor&quot;,
+      &quot;firstName&quot;: &quot;Editor&quot;,
+      &quot;lastName&quot;: &quot;&quot;,
+      &quot;websiteUrl&quot;: &quot;&quot;,
+      &quot;bio&quot;: &quot;&quot;
+    },
+    &quot;assetUrl&quot;: &quot;https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/aeb6c917-3d47-43aa-aedc-e32e1562273e/OGSAN++KV.002.jpg&quot;,
+    &quot;contentType&quot;: &quot;image/jpeg&quot;,
+    &quot;items&quot;: [ ],
+    &quot;pushedServices&quot;: { },
+    &quot;pendingPushedServices&quot;: { },
+    &quot;recordTypeLabel&quot;: &quot;image&quot;,
+    &quot;originalSize&quot;: &quot;1280x720&quot;
+  },
+  &quot;imageOverlayOpacity&quot;: 0.0,
+  &quot;backgroundWidth&quot;: &quot;background-width--full-bleed&quot;,
+  &quot;sectionHeight&quot;: &quot;section-height--medium&quot;,
+  &quot;customSectionHeight&quot;: 10,
+  &quot;horizontalAlignment&quot;: &quot;horizontal-alignment--center&quot;,
+  &quot;verticalAlignment&quot;: &quot;vertical-alignment--middle&quot;,
+  &quot;contentWidth&quot;: &quot;content-width--wide&quot;,
+  &quot;customContentWidth&quot;: 50,
+  &quot;backgroundColor&quot;: &quot;&quot;,
+  &quot;sectionTheme&quot;: &quot;&quot;,
+  &quot;sectionAnimation&quot;: &quot;none&quot;,
+  &quot;backgroundMode&quot;: &quot;image&quot;
+}"
+  data-animation="none"
+   
+  
+    
+  
+  
+>
+  <div class="section-background">
+  
+    
+      
+      
+        
+            
+
+
+  
+<script>
+  "use strict";
+
+  var positionImage = function positionImage(imageEl) {
+    var imageDimensions = imageEl.dataset.imageDimensions.split('x');
+    var originalWidth = imageDimensions[0];
+    var originalHeight = imageDimensions[1];
+    var focalPoint = imageEl.dataset.imageFocalPoint.split(',');
+    var focalPointX = focalPoint[0];
+    var focalPointY = focalPoint[1];
+    var parentNode = imageEl.parentNode;
+
+    var scale = function () {
+      var imageRatio = originalWidth / originalHeight;
+      var parentClientSize = {
+        height: parentNode.clientHeight,
+        width: parentNode.clientWidth
+      };
+      var parentRatio = parentClientSize.width / parentClientSize.height;
+
+      if (imageRatio > parentRatio) {
+        return parentClientSize.height / originalHeight;
+      }
+
+      return parentClientSize.width / originalWidth;
+    }();
+
+    var getRelativeOffset = function getRelativeOffset() {
+      var targetWidth = Math.ceil(originalWidth * scale);
+      var targetHeight = Math.ceil(originalHeight * scale);
+      var parentDimensionWidth = parentNode.offsetWidth;
+      var parentDimensionHeight = parentNode.offsetHeight;
+      var overflowWidth = targetWidth - parentDimensionWidth;
+      var overflowHeight = targetHeight - parentDimensionHeight;
+      var valueX;
+
+      if (overflowWidth === 0) {
+        valueX = focalPointX;
+      } else {
+        valueX = Math.max(Math.min(targetWidth * focalPointX - parentDimensionWidth * 0.5, overflowWidth), 0) / overflowWidth;
+      }
+
+      var valueY;
+
+      if (overflowHeight === 0) {
+        valueY = focalPointY;
+      } else {
+        valueY = Math.max(Math.min(targetHeight * focalPointY - parentDimensionHeight * 0.5, overflowHeight), 0) / overflowHeight;
+      }
+
+      return {
+        valueX: valueX,
+        valueY: valueY
+      };
+    };
+
+    var relativeOffset = getRelativeOffset();
+    var valueX = relativeOffset.valueX;
+    var valueY = relativeOffset.valueY;
+    imageEl.style.objectPosition = "".concat(valueX * 100, "% ").concat(valueY * 100, "%");
+  };
+</script>
+
+
+
+    
+  <img alt=""
+    
+    src="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/aeb6c917-3d47-43aa-aedc-e32e1562273e/OGSAN++KV.002.jpg" data-image="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/aeb6c917-3d47-43aa-aedc-e32e1562273e/OGSAN++KV.002.jpg" data-image-dimensions="1280x720" data-image-focal-point="0.7165820642978004,0.48" alt="OGSAN  KV.002.jpg" 
+    data-load="false"
+    
+       srcset="https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/aeb6c917-3d47-43aa-aedc-e32e1562273e/OGSAN++KV.002.jpg?format=100w 100w,https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/aeb6c917-3d47-43aa-aedc-e32e1562273e/OGSAN++KV.002.jpg?format=300w 300w,https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/aeb6c917-3d47-43aa-aedc-e32e1562273e/OGSAN++KV.002.jpg?format=500w 500w,https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/aeb6c917-3d47-43aa-aedc-e32e1562273e/OGSAN++KV.002.jpg?format=750w 750w,https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/aeb6c917-3d47-43aa-aedc-e32e1562273e/OGSAN++KV.002.jpg?format=1000w 1000w,https://images.squarespace-cdn.com/content/v1/62257f83b01af31e2ef56e83/aeb6c917-3d47-43aa-aedc-e32e1562273e/OGSAN++KV.002.jpg?format=original 1500w"
+      
+      sizes="(max-width: 799px) 200vw, 100vw" 
+      onLoad="positionImage(this); this.classList.add('loaded');"
+      loading="lazy"
+    
+  />
+
+          
+      
+      <div class="section-background-overlay" style="opacity: 0;"></div>
+    
+  
+  </div>
+  <div
+    class="content-wrapper"
+    style='
+      
+        
+      
+    '
+  >
+    <div
+      class="content"
+      
+    >
+      
+      
+      
+      
+      
+      
+      <div class="sqs-layout sqs-grid-12 columns-12 empty" data-type="page-section" id="page-section-62276436b5d3c1636f51f46c"><div class="row sqs-row"><div class="col sqs-col-12 span-12"><div class="sqs-block html-block sqs-block-html" data-block-type="2" id="block-yui_3_17_2_1_1646748706248_2369"><div class="sqs-block-content">
+</div></div></div></div></div>
+    </div>
+  </div>
+  
+</section>
+
+  
+</article>]]></content:encoded>
+      <wp:post_name>new-page</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
