@@ -1,440 +1,286 @@
-*{
-    position: relative;
-    font-family: 'Roboto', sans-serif;
-}
 html,body{
     width: 100%;
     height: 100%;
     padding: 0;
     margin: 0;
+}
+*{
+    position: relative;
+    color: white;
+    /* background-color: black; */
     text-align: center;
+    border: none;
 }
-h1{
-	font-size:3rem;
-    /* font-size: 48px; */
-}
-h2{
-	font-size:2.25rem;
-    /* font-size: 36px; */
-}
-h3{
-	font-size:1.5rem;
-    /* font-size: 24px; */
-}
-p{
-	font-size:1.125rem;
-    /* font-size: 18px; */
-    font-weight: 400;
-}
-section{
-    width: 100vw;
-    text-align: center;
+img{
+    width: 100%;
+    height: 100%;
 }
 .container{
     display: inline-block;
-    text-align: center;
-    width: 90vw;
-    padding-top: 10vh;
-    padding-bottom: 10vh;
-}
-
-nav{
-    background-color: #252525;
-    text-align: left;
-    color: white;
-    height: 20vh;
-    vertical-align: top;
-}
-nav .left{
-    display: inline-block;
-    height: 100%;
-    vertical-align: bottom;
-}
-nav .logo{
-    display: inline-block;
-    vertical-align: bottom;
-    height: 100%;
-    /* width: 20vw; */
-}
-nav .logo-text{
-    display: inline-block;
-}
-nav .right{
-    position: absolute;
-    right: 50px;
-    display: inline-block;    
-    height: 100%;
-    vertical-align: top;
-    width: 25vw;
-}
-nav .icon{
-    display: inline-block;
-    width: 7vw;
-    height: 7vw;
-    top: 50%;
-    transform: translateY(-50%);
-    min-width: 40px;
-    min-height: 40px;
-}
-nav img{
-    display: inline-block;
-    width: 100%;
-    height: 100%;
-}
-
-/* home */
-#home {
-    background-color: #252525;
-    color: #e7e7e7;
-    font-family: Amiri;
-    letter-spacing:0.375rem;
-}
-#home .pic{
-    width: 100vw;
-}
-#home img{
-    display: inline-block;
-    width: 100%;
-    height: 100%;
-}
-#home .logo{
-    display: inline-block;
-    max-width: 300px;
-    width: 40vw;
-}
-#home .logo-top{
-    max-width: 200px;
-}
-#home .arrow{
-    display: inline-block;
-    max-width: 70px;
-    width: 10vw;
-}
-#home p span{
-    color: orange;
-}
-
-/* nft */
-#nft .container{
-    padding-top: 20vh;
-    padding-bottom: 20vh;
-}
-#nft .pic{
-    display: inline-block;
-    width: 70%;
-}
-#nft img{
-    display: inline-block;
-    width: 100%;
-    height: 100%;
-}
-#nft button{
-    background-color: #252525;
-    color: orange;
-    font-size: 1rem;
-    border-radius: 50px;
-    padding: 15px 25px;
+    width: 90%;
     margin-top: 50px;
-    cursor: pointer;
-    border:none;
+    margin-bottom: 50px;
 }
-#nft button:hover{
-    background-color: rgb(80, 80, 80);
-    color: rgb(255, 198, 93);
-    transform: scale(1.2);
+h1{
+    color: #A78A35;
+    font-size: 38px;
+    font-weight: bold;
+}
+p{
+    font-size: 24px;
+}
+
+
+/* banner */
+#banner {
+    background-color: #141414;
+}
+#banner .container{
+    width: 100%;
+    margin: 0px;
+}
+#banner .pic{
+    width: 100%;
+}
+
+/* project */
+#project {
+    background-color: #141414;
+}
+#project .heading{
+    font-size: 36px;
+    font-weight: bold;
+}
+#project .block{
+    display: inline-block;
+    width: 30%;
+    vertical-align: top;
+}
+#project .dot{
+    display: inline-block;
+    width: 2%;
+    vertical-align: top;
+}
+
+/* empower */
+#empower{
+    background-color: #0c0c0c;
+}
+#empower .pic{
+    width: 30%;
+}
+#empower .leftleft{
+    display: inline-block;
+    width: 10%;
+    vertical-align: top;
+}
+#empower .left{
+    display: inline-block;
+    width: 40%;
+    vertical-align: top;
+}
+#empower .right{
+    display: inline-block;
+    width: 49%;
+    vertical-align: top;
+    text-align: left;
+}
+#empower h1{
+    text-align: left;
+    padding: 0px 20px;
+    line-height: 40px;
+}
+#empower p{
+    text-align: left;
+    padding: 0px 20px;
+    line-height: 40px;
+}
+
+/* character , style*/
+#character {
+    background-color: #212121;
+}
+#character .container{
+    min-height: 15vh;
+}
+#character h1{
+    display: inline-block;
+    width: 30%;
+    vertical-align: center;
+    text-align: center;
+}
+#character p{
+    display: inline-block;
+    width: 69%;
+    vertical-align: top;
+    text-align: left;
+    font-size: 20px;
+}
+#style {
+    background-color: black;
+}
+#style .container{
+    height: 30vh;
+}
+#style h1{
+    display: inline-block;
+    width: 30%;
+    vertical-align: center;
+    text-align: center;
+}
+#style p{
+    display: inline-block;
+    width: 69%;  
+    vertical-align: top;  
+    text-align: left;
+    font-size: 20px;
 }
 
 /* team */
-#team {    
-    background-color: #252525;
-    color: #FFFFFF;
+#team{
+    background-color: black;
 }
-#team h2 span{
-    color: orange;
-    font-size:2.875rem;
-    /* font-size: 46px; */
-}
-#team .block{
+#team button {
     display: inline-block;
-    width: 20%;
-    vertical-align:top;
-    padding: 20px;
-    text-align: left;
+    background-color: transparent;
+    width: 5%;
+    cursor: pointer;
 }
-#team .block .pic{
-    width: 100%;
-}
-#team .block img{
-    width: 100%;
-    height: 100%;
-}
-#team .hr-margin{
-    margin-top: 10vh;
-    margin-bottom: 10vh;
-}
-
-/* about */
-#about p{ 
-    color: #333232;
-    
-    letter-spacing: -0.408px;
-}
-#about .big-ls{
-    letter-spacing: 6.592px;
-}
-#about hr{
-    margin-top: 10vh;
-    margin-bottom: 10vh;
-}
-
-/* future */
-#future{    
-    background-color: #252525;
-    color: #FFFFFF;
-}
-#future .block{
-    display: inline-block;
-}
-#future .pic{
-    margin:10px;
-    max-width: 200px;
-    max-height: 200px;
-}
-#future img{
-    width: 100%;
-    height: 100%;
-}
-#future .bottom-pic{
-    padding-bottom: 10vh;
-}
-
-/*vc*/
-#vc img{
-    display: inline-block;
-    max-width: 80vw;
-}
-#vc h1{
-    font-family: Roboto;
-    margin-top: 2vh;
-}
-#vc h2{
-    font-family: Roboto;
-    margin-top: 2vh;
-}
-#vc p{
-    font-family: Roboto;
+#team .pic{
     display: inline-block;
     width: 80%;
-    margin-top: 5vh;
-    /* line-height: 22px; */
-    line-height:1.375rem;
-
-}
-#vc .waiting{
-    margin-top: 20vh;
-}
-#vc .waiting-info{
-    margin-top: 1vh;
-    /* line-height: 28px; */
-    line-height:1.75rem;
-
 }
 
-/* roadmap-founder */
-.roadmap-founder{
-    background-color: #252525;
-}
 
-/*roadmap*/
-#roadmap{
-    color: #E4E4E4;
-    margin-top: 15vh;
-    padding-top: 5vh;
-    padding-bottom: 15vh;
+/* combination */
+#combination {
+    background-color: #272727;
 }
-#roadmap p{
-    /* line-height: 22px; */
-    line-height:1.375rem;
-
+#combination .container{
+    width: 75%;
 }
-
-/*founder*/
-#founder .container{
-    padding-top: 5vh;
+#combination .left .pic{
+    /* display: inline-block; */
+    width: 15vw;
 }
-#founder .dash{
-    max-width: 80vw;
-}
-#founder{
-    color: #FFFFFF;
-}
-#founder h2{
-    margin-top: 10vh;
-}
-#founder .founder-pic{
-    max-width: 25vw;
-}
-#founder .founder-container{
+#combination .left{
     display: inline-block;
-    text-align: center;
-    width: 90vw;
+    width: 50%;
 }
-#founder .founder-info{
+#combination .left h1{
+    text-align: left;
+    padding-left: 30px;
+}
+#combination .left p{
+    text-align: left;
+    padding-left: 30px;
+    line-height: 38px;
+}
+#combination .right{
     display: inline-block;
-    width: 25vw;
-    text-align: center;
-    vertical-align: top;
-    margin: 6vh 5vw;
+    width: 49%;
 }
-#founder1{
+
+/* vc */
+#vc {
+    background-color: black;
+}
+#vc h1{
+    color: white;
+}
+#vc .left{
+    display: inline-block;
+    width: 50%;    
+}
+#vc .left h1{
+    text-align: left;
+    color: white;
+}
+#vc .left p{
+    text-align: left;
+    font-size: 18px;
+    line-height: 26px;
+}
+#vc .right{
+    display: inline-block;
+    width: 49%;    
+}
+
+/* award */
+#award{
+    background-color: black;
+}
+#award h1{
+    color: white;
     text-align: left;
 }
-
-
-@media screen and (max-width:1024px){
-    /* nav */
-    nav {
-        height: 15vh;
-    }
-    nav .right{        
-        right: 10px;
-    }
-    /* team */    
-    #team .block{
-        width: 35%;
-    }
+#award .left {
+    display: inline-block;
+    width: 50%;    
+    vertical-align: top;
 }
-@media screen and (max-width:600px){
-    nav{
-        height: 12vh;
-    }
-    nav .logo-text{
-        display: none;
-    }
-    nav .right{
-        right:0px;
-        width: 30vw;
-    }
-    h1{
-        font-size: 36px;
-    }
-    h2{
-        font-size: 24px;
-    }
-    h3{
-        font-size: 18px;
-    }
-    p{
-        font-size: 14px;
-    }
-
-    /*vc*/
-    #vc p{
-        /* line-height: 16px; */
-        line-height:1rem;
-
-    }
-    #vc .waiting-info{
-        /* line-height: 20px; */
-        line-height:1.25rem;
-
-    }
-    
-    /*founder*/
-    #founder p{
-        font-size: 12px;
-    }
-    #founder .founder-pic{
-        max-width: 30vw;
-    }
-    #founder .founder-info{
-        width: 30vw;
-        
-    }
+#award .right {
+    display: inline-block;
+    width: 49%;    
+    vertical-align: top;
+}
+#award .left h2{
+    font-size: 18px;
+    color: white;
+    text-align: left;
+}
+#award .right h2{
+    font-size: 18px;
+    color: white;
+    text-align: left;
+}
+#award p{
+    text-align: left;
+    font-size: 16px;
+    line-height: 26px;
+    padding-left: 40px;
+}
+#award hr{
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
 
-@media screen and (max-width: 426px){
-    nav .right{
-        width: 40vw;
-    }
-    /* team */    
-    #team .block{
-        width: 85%;
-    }
-    /*founder*/
-    #founder .founder-info{
-        width: 80%;
-        line-height: 1.375rem;
-    }
-    #founder1{
-        text-align: center;
-    }
-    #founder p{
-        margin-top: 3vh;
-    }
+/* art */
+#art {
+    background-color: black;    
+}
+#art .pic{
+    display: inline-block;
+    width: 20vw; 
+    height: 20vw;
+}
+#art button{
+    color: black;
 }
 
-
-@media screen and (min-width:1024px){
-    /*founder*/
-    #founder p{
-        margin: 5vh 2vw;
-    }
+/* founder */
+#founder {
+    background-color: #272727;
 }
-@media screen and (min-width:1440px){    
-    /* nft */
-    #nft button{
-        font-size: 2rem;
-        margin-top: 100px;
-    }
-    /*founder*/
-    #founder p{
-        margin: 5vh 4vw;
-    }
+#founder h1{
+    text-align: left;
+    color: white;
 }
-@media screen and (min-width:1800px){
-    /*vc*/
-    #vc img{
-        width: 50vw;
-    }
-    /*founder*/
-    #founder p{
-        margin: 5vh 7vw;
-    }
+#founder .pic{
+    display: inline-block;
+    width: 49%;    
+    vertical-align: top;    
 }
-@media screen and (min-width:2000px){
-    h1{
-        font-size: 72px;
-    }
-    h2{
-        font-size: 60px;
-    }
-    h3{
-        font-size: 48px;
-    }
-    p{
-        font-size: 36px;
-    }
-    /*vc*/
-    #vc p{
-        /* line-height: 48px; */
-        line-height:3rem;
-    }
-    #vc .waiting-info{
-        /* line-height: 48px; */
-        line-height:3rem;
-    }
-    /*roadmap*/
-    #roadmap p{
-        /* line-height: 48px; */
-        line-height:3rem;
-    }
-    /*founder*/
-    #founder .founder-pic{
-        width: 612px;
-        height: 648px;
-    }
-    #founder p{
-        margin: 5vh 0;
-    }
+/* footer */
+#footer{
+    background-color: black;
+}
+#footer h1{
+    font-size: 30px;
+    color: white;
+}
+#footer .pic{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
 }
