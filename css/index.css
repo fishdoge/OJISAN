@@ -130,8 +130,8 @@ p{
 }
 #style p{
     display: inline-block;
-    width: 69%;  
-    vertical-align: top;  
+    width: 69%;
+    vertical-align: top;
     text-align: left;
     font-size: 20px;
 }
@@ -190,7 +190,7 @@ p{
 }
 #vc .left{
     display: inline-block;
-    width: 50%;    
+    width: 50%;
 }
 #vc .left h1{
     text-align: left;
@@ -203,7 +203,7 @@ p{
 }
 #vc .right{
     display: inline-block;
-    width: 49%;    
+    width: 49%;
 }
 
 /* award */
@@ -216,12 +216,12 @@ p{
 }
 #award .left {
     display: inline-block;
-    width: 50%;    
+    width: 50%;
     vertical-align: top;
 }
 #award .right {
     display: inline-block;
-    width: 49%;    
+    width: 49%;
     vertical-align: top;
 }
 #award .left h2{
@@ -247,11 +247,11 @@ p{
 
 /* art */
 #art {
-    background-color: black;    
+    background-color: black;
 }
 #art .pic{
     display: inline-block;
-    width: 20vw; 
+    width: 20vw;
     height: 20vw;
 }
 #art button{
@@ -268,8 +268,8 @@ p{
 }
 #founder .pic{
     display: inline-block;
-    width: 49%;    
-    vertical-align: top;    
+    width: 49%;
+    vertical-align: top;
 }
 /* footer */
 #footer{
@@ -283,4 +283,14 @@ p{
     width: 40px;
     height: 40px;
     display: inline-block;
+}
+
+button{
+    border: none;
+    border-radius: 25px;
+    padding: 2px 15px;
+    font-weight: bold;
+    margin: 0px 10px;
+    font-size: 40px;
+    color: #0c0c0c;
 }
