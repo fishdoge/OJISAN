@@ -9,6 +9,16 @@
     <link rel="stylesheet" href="css/index.css">
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css"/>
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/web3/1.7.0/web3.min.js" integrity="sha512-C63V0mFzwl8KV2fRz0QJNKX0d9877urOLSUq5WUq8nUOhDl69hKdGr9mAvl57k47GNjqEMAtiufsvDnk7xs8+w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://code.jquery.com/jquery-3.3.1.min.js"integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script>
+        var coinbase;
+        if (window.ethereum) {
+            web3 = new Web3(window.ethereum);
+        } else {
+                // Code for HttpProvider remains unchanged
+        }  
+    </script>
 </head>
 <body>
     <section id="banner">
@@ -224,5 +234,6 @@
     <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.2.1/jquery-migrate.min.js' integrity='sha512-fDGBclS3HUysEBIKooKWFDEWWORoA20n60OwY7OSYgxGEew9s7NgDaPkj7gqQcVXnASPvZAiFW8DiytstdlGtQ==' crossorigin='anonymous'></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
     <script src="./js/index.js"></script>
+    <script src="./web3/index.js"></script>
 </body>
 </html>
