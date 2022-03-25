@@ -293,4 +293,5 @@ button{
     margin: 0px 10px;
     font-size: 40px;
     color: #0c0c0c;
+    cursor: pointer;
 }

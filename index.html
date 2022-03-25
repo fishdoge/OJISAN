@@ -7,11 +7,12 @@
     <title>OGsan</title>
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/index.css">
-    <link rel="shortcut icon" href="/asset/favicon.ico" type="image/x-icon" />
+    <link rel="shortcut icon" href="./asset/favicon.ico" type="image/x-icon" />
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css"/>
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"/>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/web3/1.7.0/web3.min.js" integrity="sha512-C63V0mFzwl8KV2fRz0QJNKX0d9877urOLSUq5WUq8nUOhDl69hKdGr9mAvl57k47GNjqEMAtiufsvDnk7xs8+w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
     <script src="https://code.jquery.com/jquery-3.3.1.min.js"integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+    <script src="web3/abi.js"></script>
     <script>
         var coinbase;
         if (window.ethereum) {
@@ -128,12 +129,15 @@
                 <div class="pic">
                     <img src="asset/NFT_OGSAN.gif" alt="">
                     <br/>
-                    <button style="margin-top: 3%;">Mint</button>
+                    <button onclick="mintNFT()" style="margin-top: 3%;">Mint</button>
                 </div>
             </div>
 
             <div style="margin-top: 5%;">
                 <button onclick="login_In_button()" id="Addr">Connect wallet</button>
+            </div>
+            <div id="whits" style="margin-top: 3%;">
+
             </div>
         </div>
     </section>
