@@ -60,7 +60,9 @@ async function mintNFT(){
 
     if(whiteList != true){
         await OGSAN.methods.mint().send({from:coinbase,value:web3.utils.toWei('0.28','ether')});
+        alert("NFT mint 成功");
     }else{
         await OGSAN.methods.mint().send({from:coinbase,value:web3.utils.toWei('0.26','ether')});
+        alert("NFT mint 成功");
     }
 }
