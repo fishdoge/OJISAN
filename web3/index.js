@@ -6,9 +6,9 @@ async function login_In_button(){
 let whiteList;
 
 async function setCollent(){
-    coinbase = await web3.eth.getCoinbase();
+    let accounts = await web3.eth.getAccounts();
 
-    //coinbase = account[0];
+    coinbase = accounts[0];
 
     let ETHbalance = await web3.eth.getBalance(coinbase);
     ETHbalance = web3.utils.fromWei(ETHbalance, 'ether');
