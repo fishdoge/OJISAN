@@ -213,6 +213,14 @@ p{
     display: inline-block;
     width: 49%;
 }
+#combination .right .pic{
+    display: inline-block;
+    width: 50%;
+    min-width: 350px;
+}
+#combination .bottom button{
+    margin-top: 10%;
+}
 
 /* vc */
 #vc {
@@ -225,6 +233,8 @@ p{
     display: inline-block;
     width: 50%;
     vertical-align: top;
+    box-sizing: border-box;
+    padding: 30px;
 }
 #vc .left h1{
     text-align: left;
@@ -340,4 +350,46 @@ button{
 }
 button:hover{
     color: #d4aa2a;
+}
+
+@media screen and (max-width: 1024px) {     
+    #empower .left{
+        width: 100%;
+    }  
+    #empower .left h1{
+        text-align: center;
+    }
+    #empower .left p{
+        text-align: center;
+    }
+    #empower .right{
+        width: 100%;
+    }
+    #empower .right h1{
+        text-align: center;
+    }
+    #empower .right p{
+        text-align: center;
+    }
+    #empower .gold{
+        height: 50vh;
+        width: 40vh;
+        right: 0;
+        bottom: 0;
+    }
+    
+    #combination .left{
+        width: 100%;
+        text-align: center;
+    }
+    #combination .right{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 768px) {     
+    #project .block{
+        width: 100%;
+    }
+
 }
