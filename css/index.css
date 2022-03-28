@@ -195,6 +195,7 @@ p{
 #combination .left .pic{
     /* display: inline-block; */
     width: 15vw;
+    min-width: 200px;
 }
 #combination .left{
     display: inline-block;
@@ -216,7 +217,7 @@ p{
 #combination .right .pic{
     display: inline-block;
     width: 50%;
-    min-width: 350px;
+    min-width: 260px;
 }
 #combination .bottom button{
     margin-top: 10%;
@@ -351,7 +352,6 @@ button{
 button:hover{
     color: #d4aa2a;
 }
-
 @media screen and (max-width: 1024px) {     
     #empower .left{
         width: 100%;
@@ -382,14 +382,140 @@ button:hover{
         width: 100%;
         text-align: center;
     }
+    #combination .left .pic{
+        display: inline-block;
+        width: 15vw;
+        min-width: 200px;
+    }
+    #combination .left h1{
+        text-align: center;
+    }
+    #combination .left p{
+        text-align: center;
+        padding-left: 0px;
+
+    }
     #combination .right{
         width: 100%;
     }
+    
 }
 
 @media screen and (max-width: 768px) {     
     #project .block{
         width: 100%;
     }
+    
+    h1{
+        font-size: 34px;
+    }
+    p{
+        font-size: 18px;
+    }
+    #character p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    #style p {
+        font-size: 18px;
+        line-height: 30px;
+    }
+    #vc .left{
+        width: 90%;
+    }
+    #vc .right{
+        width: 80%;
+    }
+    #award .left{
+        width: 90%;
+    }
+    #award .right{
+        width: 90%;
+    }
+    #founder .pic{
+        width: 100%;
+        margin-bottom: 10%;
+    }
 
+    #art .container{
+        height: 20vh;
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    #combination button{        
+        border-radius: 30px;
+        padding: 10px 20px;
+        font-weight: bold;
+        margin: 0px 10px;
+        font-size: 20px;
+        cursor: pointer;
+    }
+
+}
+
+@media screen and (max-width: 426px) {     
+    
+    .container{
+        width: 90%;
+        margin-top: 50px;
+        margin-bottom: 50px;
+    }
+    #project .smoke{
+        height: 70vh;
+        width: 60vh;
+        right: 0%;
+        top: 0%;
+    }
+    
+    h1{
+        font-size: 32px;
+    }
+    p{
+        font-size: 16px;
+    }
+
+    #character p {
+        width: 90%;
+        font-size: 16px;
+    }
+    #style p {
+        width: 90%;
+        font-size: 16px;
+    }
+    #character h1 {
+        display: inline;
+        text-align: center;
+    }
+    #style h1 {
+        display: inline;
+        text-align: center;
+    }
+    
+    #vc .left{
+        width: 100%;
+    }
+    #vc .left p{
+        font-size: 16px;
+    }
+    #vc .right{
+        width: 100%;
+    }
+    #award .left{
+        width: 100%;
+    }
+    #award .right{
+        width: 100%;
+    }
+    #award .left p{
+        font-size: 16px;
+    }
+    #award .right p{
+        font-size: 16px;
+    }
+    #award .smoke{    
+        height: 70vh;
+        width: 60vh;
+        right: 0%;
+        top: 10%;
+    }
 }
