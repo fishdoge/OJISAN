@@ -314,7 +314,7 @@ p{
 
 /* founder */
 #founder {
-    background-color: #272727;
+    background-color: black;
 }
 #founder h1{
     text-align: left;
@@ -352,10 +352,10 @@ button{
 button:hover{
     color: #d4aa2a;
 }
-@media screen and (max-width: 1024px) {     
+@media screen and (max-width: 1024px) {
     #empower .left{
         width: 100%;
-    }  
+    }
     #empower .left h1{
         text-align: center;
     }
@@ -377,7 +377,7 @@ button:hover{
         right: 0;
         bottom: 0;
     }
-    
+
     #combination .left{
         width: 100%;
         text-align: center;
@@ -398,14 +398,14 @@ button:hover{
     #combination .right{
         width: 100%;
     }
-    
+
 }
 
-@media screen and (max-width: 768px) {     
+@media screen and (max-width: 768px) {
     #project .block{
         width: 100%;
     }
-    
+
     h1{
         font-size: 34px;
     }
@@ -442,7 +442,7 @@ button:hover{
         margin-top: 0;
         margin-bottom: 0;
     }
-    #combination button{        
+    #combination button{
         border-radius: 30px;
         padding: 10px 20px;
         font-weight: bold;
@@ -453,8 +453,8 @@ button:hover{
 
 }
 
-@media screen and (max-width: 426px) {     
-    
+@media screen and (max-width: 426px) {
+
     .container{
         width: 90%;
         margin-top: 50px;
@@ -466,7 +466,7 @@ button:hover{
         right: 0%;
         top: 0%;
     }
-    
+
     h1{
         font-size: 32px;
     }
@@ -490,7 +490,7 @@ button:hover{
         display: inline;
         text-align: center;
     }
-    
+
     #vc .left{
         width: 100%;
     }
@@ -512,7 +512,7 @@ button:hover{
     #award .right p{
         font-size: 16px;
     }
-    #award .smoke{    
+    #award .smoke{
         height: 70vh;
         width: 60vh;
         right: 0%;
