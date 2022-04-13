@@ -1,269 +1,42 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>OGsan</title>
-    <link rel="stylesheet" href="css/normalize.css">
-    <link rel="stylesheet" href="css/index.css">
-    <link rel="shortcut icon" href="./asset/favicon.ico" type="image/x-icon" />
-    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.css"/>
-    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick-theme.min.css"/>
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Secular+One&display=swap" rel="stylesheet">
-
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/web3/1.7.0/web3.min.js" integrity="sha512-C63V0mFzwl8KV2fRz0QJNKX0d9877urOLSUq5WUq8nUOhDl69hKdGr9mAvl57k47GNjqEMAtiufsvDnk7xs8+w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="https://code.jquery.com/jquery-3.3.1.min.js"integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
-    <script src="web3/abi.js"></script>
-    <script>
-        var coinbase;
-        if (window.ethereum) {
-            web3 = new Web3(window.ethereum);
-        } else {
-                // Code for HttpProvider remains unchanged
-        }
-    </script>
-</head>
-<body>
-    <section id="banner">
-        <div class="container">
-            <div class="pic">
-                <img src="asset/banner.jpeg" alt="">
-            </div>
-        </div>
-    </section>
-    <section id="project">
-        <div class="container">
-            <div class="smoke">
-                <img src="asset/smoke/smoke1.png" alt="">
-            </div>
-            <p class="heading">ABOUT THIS PROJECT</p>
-            <div class="block">
-                <h1>品牌命名</h1>
-                <p>整體形象從毆吉桑變成各行各業的OG大叔</p>
-            </div>
-            <div class="dot">
-                <h1>．</h1>
-            </div>
-            <div class="block">
-                <h1>品牌定位</h1>
-                <p>成為各行各業指標性店家</p></div>
-            <div class="dot">
-                <h1>．</h1>
-            </div>
-            <div class="block">
-                <h1>人物設定</h1>
-                <p>不同領域的大叔</p></div>
-        </div>
-    </section>
-    <section id="empower">
-        <div class="container">
-            <div class="gold">
-                <img src="asset/smoke/gold1.png" alt="">
-            </div>
-            <div class="pic">
-                <img src="asset/empower logo.png" alt="">
-            </div>
-            <div class="leftleft"></div>
-            <div class="left">
-                <h1>品牌優勢</h1>
-                <p>客群用戶有穩定收入經濟基礎，<br>
-                    涉及的領域橫跨不同產業，<br>
-                    鎖定族群有共識與目標。
-                </p>
-            </div>
-            <div class="right">
-                <h1>NFT賦能</h1>
-                <p>
-                    將 NFT 賦予除了術收藏額外的能用途，
-                    如店家折扣(空頭優惠卷)、體資源整合(建立商家地圖)
-                    打造社群經濟(遊、餐飲、住宿、親子客群)。
-                </p>
-            </div>
-        </div>
-    </section>
-    <section id="character">
-        <div class="container">
-            <h1>關於腳色</h1>
-            <p>
-                我們期許創造史上最精緻的NET作品<br>
-                首創東方水墨風格,呈現出最溫暖而好感的角色。<br>
-                有位世界偉人會這麼說:有貓就加分!<br>
-                我們更首創背部視角展現山一般雄偉的大叔魅力,並希望創造更多元素用與商業合作的延展性<br>
-                (例品牌特別合作款/產品置入/品牌活動推廣)
-            </p>
-        </div>
-    </section>
-    <section id="style">
-        <div class="gold">
-            <img src="asset/smoke/gold2.png" alt="">
-        </div>
-        <div class="container">
-            <h1>關於畫風</h1>
-            <p>
-                大叔畫風呈現與一般line貼圖式簡易繪格做區隔,與動漫格做區格<br>
-                讓頭像更具藝術成份與價值讓頭像足以匹配個人也如畫作足以襯托大叔的價值與氣度。
-            </p>
-        </div>
-    </section>
-    <section id="team">
-        <div class="container">
-            <div class="pic">
-                <div><img  src="asset/team/team0.png" alt=""></div>
-                <div><img  src="asset/team/team1.png" alt=""></div>
-                <div><img  src="asset/team/team2.png" alt=""></div>
-                <div><img  src="asset/team/team3.png" alt=""></div>
-                <div><img  src="asset/team/team4.png" alt=""></div>
-                <!--<div><img  src="asset/team/team5.png" alt=""></div>-->
-            </div>
-            <!-- 輪播 -->
-        </div>
-    </section>
-    <section id="combination">
-        <div class="container">
-            <div class="left">
-                <div class="pic">
-                    <img src="asset/combination logo.png" alt="">
-                </div>
-                <h1>未來系列延伸架構</h1>
-                <p>
-                    主體 / 膚色：1-3色<br>
-                    頭部 / 帽類：已有7款 , 增加中<br>
-                    臉部 / 眼鏡：已有5款 , 增加中<br>
-                    身體 / 衣類：已有9款 , 增加中<br>
-                    背部 / 背包：已有3款 , 增加中<br>
-                    背部 / 圖紋：已有6款 , 增加中<br>
-                    背景 / 色塊、底紋：已有4款 , 增加中
-                </p>
-            </div>
-            <div class="right">
-                <div class="pic">
-                    <img src="asset/NFT_OGSAN.gif" alt="">
-                </div>
-            </div>
-            <div class="bottom">
-                <button>Mint not start</button>
-
-            </div>
-            <div id="whits" style="margin-top: 5%;">
-                <button onclick="login_In_button()" id="Addr">Connect wallet</button>
-            </div>
-        </div>
-    </section>
-    <section id="vc">
-        <div class="container">
-            <h1>Visual Creation</h1>
-            <div class="left">
-                <h1>I'M 馬賽KYO</h1>
-                <p>
-                    跨界多方位創意人，具廣告人、極地攝影師、平面設計師、產品設計師、插畫家、導演、旅行圖文作者、國際設計與攝影競賽評審、大學數位創作講師……多元身份。<br>
-                    二十多次踏入極圈，追逐極光近三百夜。熱愛旅行，以隨興的步調走過五十多個國家， 長途跋涉前往北極、南極只為尋找地球原始樣貌的美麗。<br>
-                    台灣首位獲選 法國PX3 國際攝影大獎年度廣告攝影師<br>
-                    『Professional – Prix de la Photographie Paris 2019 Advertising Photographer of the Year 』<br><br>
-
-                    擁有英國倫敦國際獎(London International Awards)、紐約國際廣告獎(The New York Festivals)以及美國莫比斯國際廣告獎(The Mobius Advertising Awards)三大國際廣告獎廣告插畫類 金獎，巴黎PX3、美國IPA、莫斯科MIFA、東京TIFA、布達佩斯BIFA五大國際攝影獎職業組 金獎以及三百多項平面設計、廣告插畫與攝影跨領域獎項項。
-                </p>
-            </div>
-            <div class="right">
-                <div class="pic">
-                    <img src="asset/vc/kyo.png" alt="">
-                </div>
-            </div>
-        </div>
-    </section>
-    <section id="award">
-        <div class="container">
-            <div class="smoke">
-                <img src="asset/smoke/smoke2.png" alt="">
-            </div>
-            <h1>List of Awards</h1>
-            <p>over three hundreds of awards such as illustration, advertisement and photography category.</p>
-            <hr>
-            <div class="left">
-                <h2>Won the homepage of the 2018 Paris PX3 (Prix de la Photographie Paris)  official website.</h2>
-                <p>
-                    Won the homepage of the 2018 Paris PX3 (Prix de la Photographie Paris)  official website.<br>
-                    GOLD Award of illustration category , London International Awards<br>
-                    GOLD Award of illustration category, The New York Festivals<br>
-                    GOLD Award of illustration category, The Mobius Advertising Awards<br>
-                </p>
-                <h2>D&AD Awards</h2>
-                <p>
-                    『Professional – Prix de la Photographie Paris 2019<br>
-                    Advertising Photographer of the Year 』<br>
-                    GOLD Awards of Professional, PX3 (Prix de la Photographie Paris)<br>
-                    GOLD Awards of Professional, TIFA (TOKYO INTERNATIONAL FOTO AWARDS)<br>
-                    GOLD Awards of Professional, MIFA (MOSCOW INTERNATIONAL FOTO AWARDS)<br>
-                    GOLD Awards of Professional, BIFA (BUDAPEST INTERNATIONAL FOTO AWARDS)<br>
-                    GOLD Award of Professional, IPA (International Photography Awards USA)<br>
-                </p>
-            </div>
-            <div class="right">
-                <h2>D&AD Awards</h2>
-                <p>
-                    London International Creative Competition<br>
-                    International Poster Biennale in Warsaw<br>
-                    The International Biennale of Poster in Mexico<br>
-                </p>
-                <h2>AWARD Awards, Australia</h2>
-                <p>
-                    Taiwan International Graphic Design Award<br>
-                    Taipei International Design Award<br>
-                    Sony World Photography Awards<br>
-                    Leica International Photography Awards<br>
-                </p>
-            </div>
-        </div>
-    </section>
-    <section id="art">
-        <div class="container">
-            <div class="block">
-                <div class="pic">
-                    <img src="asset/vc/portfolio1.png" alt="">
-                </div>
-                <div class="pic">
-                    <img src="asset/vc/portfolio2.png" alt="">
-                </div>
-                <div class="pic">
-                    <img src="asset/vc/portfolio3.png" alt="">
-                </div>
-                <div class="pic">
-                    <img src="asset/vc/portfolio4.png" alt="">
-                </div>
-            </div>
-            <!-- 輪播again -->
-        </div>
-    </section>
-    <section id="founder">
-
-        <div class="container">
-            <div style="background-color: black;height:80px; display: flex;
-            justify-content: center;
-            align-items: center; ">
-                <h1>FOUNDER</h1>
-            </div>
-            <div class="pic" >
-                <img src="asset/founder/founder1.jpg" alt="">
-            </div>
-            <div class="pic">
-                <img src="asset/founder/founder2.jpg" alt="">
-            </div>
-        </div>
-    </section>
-    <section id="footer">
-        <div class="container">
-            <h1>#OG SAN</h1>
-            <div class="pic">
-                <img src="asset/instagram white icon.png" alt="">
-            </div>
-        </div>
-    </section>
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/1.11.0/jquery.min.js' integrity='sha512-h9kKZlwV1xrIcr2LwAPZhjlkx+x62mNwuQK5PAu9d3D+JXMNlGx8akZbqpXvp0vA54rz+DrqYVrzUGDMhwKmwQ==' crossorigin='anonymous'></script>
-    <script src='https://cdnjs.cloudflare.com/ajax/libs/jquery-migrate/1.2.1/jquery-migrate.min.js' integrity='sha512-fDGBclS3HUysEBIKooKWFDEWWORoA20n60OwY7OSYgxGEew9s7NgDaPkj7gqQcVXnASPvZAiFW8DiytstdlGtQ==' crossorigin='anonymous'></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.1/slick.min.js"></script>
-    <script src="./js/index.js"></script>
-    <script src="./web3/index.js"></script>
-</body>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<title>OGSAN_官網_20220413</title>
+        <link rel="shortcut icon" href="./asset/favicon.ico" type="image/x-icon" />
+		<link href="OGSAN_%E5%AE%98%E7%B6%B2_20220413-web-resources/css/idGeneratedStyles.css" rel="stylesheet" type="text/css" />
+	</head>
+	<style>
+					body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+			margin:0;
+			padding:0;
+			border-width:0;
+		}
+		body {
+			-epub-hyphens:auto;
+		}
+		#_idContainer000 {
+			display:inline-block;
+			height:8289px;
+			width:1271px;
+		}
+		img._idGenObjectAttribute-1 {
+			height:100.00%;
+			min-width:100%;
+			width:100.00%;
+		}
+		div._idGenObjectStyleOverride-1 {
+			border-width:0px;
+		}
+		div._idGenObjectLayout-1 {
+			text-align:center;
+		}
+		</style>
+	<body id="OGSAN_官網_20220413" >
+		<div class="_idGenObjectLayout-1" >
+			<div id="_idContainer000" class="_idGenObjectStyleOverride-1" style="width: 100%;height: 100%;">
+				<img class="_idGenObjectAttribute-1" src="./image.png" alt="" />
+			</div>
+		</div>
+	</body>
 </html>
