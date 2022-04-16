@@ -17,12 +17,6 @@ async function setCollent(){
 
     let network = await web3.eth.net.getNetworkType();
 
-    if(network != 'rinkeby'){
-        console.log("please change to main net");
-
-        alert("請切換至 rinkeby 測試網");
-    }
-
 
     console.log(add);
     $("#tes").text(add);
@@ -50,13 +44,12 @@ const OGSAN = new web3.eth.Contract(OGSAB_ABI,OGSAN_Contract);
 
 
 
-
-
-
 setCollent();
 
 async function mintNFT(){
 
+
+    return;
 
     if(whiteList != true){
         await OGSAN.methods.mint().send({from:coinbase,value:web3.utils.toWei('0.28','ether')});

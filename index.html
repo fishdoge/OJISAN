@@ -3,8 +3,20 @@
 	<head>
 		<meta charset="utf-8" />
 		<title>OGSAN</title>
-        <link rel="shortcut icon" href="./asset/favicon.ico" type="image/x-icon" />
+        <script src="https://code.jquery.com/jquery-3.3.1.min.js"integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
+		<link rel="shortcut icon" href="./asset/favicon.ico" type="image/x-icon" />
 		<link href="OGSAN_%E5%AE%98%E7%B6%B2_20220413-web-resources/css/idGeneratedStyles.css" rel="stylesheet" type="text/css" />
+		<script src="https://cdnjs.cloudflare.com/ajax/libs/web3/1.7.0/web3.min.js" integrity="sha512-C63V0mFzwl8KV2fRz0QJNKX0d9877urOLSUq5WUq8nUOhDl69hKdGr9mAvl57k47GNjqEMAtiufsvDnk7xs8+w==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+
+		<script src="web3/abi.js"></script>
+		<script>
+			var coinbase;
+			if (window.ethereum) {
+				web3 = new Web3(window.ethereum);
+			} else {
+					// Code for HttpProvider remains unchanged
+			}
+		</script>
 	</head>
 	<style>
 					body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
@@ -36,7 +48,7 @@
 			display: block;
 			background: black;
 			width: 100%;
-			height: 200px;
+			height: 250px;
 		}
 		.mint-btn{
 			font-size: 3.5rem;
@@ -55,9 +67,12 @@
 		<div class="_idGenObjectLayout-1" >
 			<div id="_idContainer000" class="_idGenObjectStyleOverride-1" style="width: 100%;height: 100%;">
 				<img class="_idGenObjectAttribute-1" src="./top.png" alt="" />
-				<div class="btn-container"><button class="mint-btn">MINT</button></div>
+				<div class="btn-container"><button onclick="mintNFT()" class="mint-btn">MINT</button></div>
+				<div class="btn-container"><button onclick="login_In_button()" id="Addr" class="mint-btn">Connect Wallet</button></div>
 				<img class="_idGenObjectAttribute-1" src="./bottom.png" alt="" />
 			</div>
 		</div>
+
 	</body>
+    <script src="./web3/index.js"></script>
 </html>
